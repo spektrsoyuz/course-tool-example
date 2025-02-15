@@ -1,7 +1,6 @@
 import json
 import time
 
-import openpyxl
 import requests
 from bs4 import BeautifulSoup
 from requests import RequestException
@@ -10,12 +9,13 @@ from requests import RequestException
 def get_catalog(level, subjects):
     courses = {}
     for subject in subjects:
-        courses[subject] = get_subject(f'https://catalog.kettering.edu/coursesaz/{level.lower()}/{subject.lower()}/')
+        url = f'https://catalog.kettering.edu/coursesaz/{level.lower()}/{subject.lower()}/'
+        courses[subject] = get_catalog_subject(url)
 
     return courses
 
 
-def get_subject(url):
+def get_catalog_subject(url):
     courses = {}
     source = request(url)
     soup = BeautifulSoup(source.text, 'html.parser')
@@ -92,35 +92,3 @@ def read_json(filename):
 def to_json(courses, filename):
     with open(filename, 'w') as file:
         file.write(json.dumps(courses, indent=4))
-
-
-def to_excel(courses, filename):
-    workbook = openpyxl.Workbook()
-    sheet = workbook.active
-
-    header = ['CRN', 'Tag', 'Name', 'Section', 'Description', 'Term', 'Registration Dates', 'Levels', 'Credits',
-              'Course Type', 'Time', 'Days', 'Where', 'Date Range', 'Schedule Type', 'Instructors']
-    sheet.append(header)
-
-    for crn, course_info in courses.items():
-        row_data = [
-            crn,
-            course_info['tag'],
-            course_info['name'],
-            course_info['section'],
-            course_info['desc'],
-            course_info['term'],
-            course_info['reg_dates'],
-            ', '.join(course_info['levels']),
-            course_info['credits'],
-            course_info['meeting_times']['type'],
-            course_info['meeting_times']['time'],
-            course_info['meeting_times']['days'],
-            course_info['meeting_times']['where'],
-            course_info['meeting_times']['date_range'],
-            course_info['meeting_times']['schedule_type'],
-            course_info['meeting_times']['instructors'],
-        ]
-        sheet.append(row_data)
-
-    workbook.save(filename)

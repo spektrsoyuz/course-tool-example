@@ -1,0 +1,4653 @@
+{
+    "30512": {
+        "tag": "BIOL 143",
+        "name": "Biology in Modern Society",
+        "section": "01",
+        "desc": "Biology is the science of life, and the science permeates all aspects of our lives, ranging from the food we eat and the air we breathe to the interactions we have with others and the environments in which we live.  Because of this, as well as new and developing methods on biological topics, it is important as humans in today\u00e2\u20ac\u2122s society that we understand the myriad of manners in which biology fits into our lives and society as a whole.  To this end, we will focus on exploring our natural environment and various ways in which we, as humans, interact with the environment, historically and presently, and discuss biological, social, and environmental impacts of these interactions on the environmental and human society.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 4303",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30099": {
+        "tag": "BIOL 341",
+        "name": "Anatomy and Physiology",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 3225",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30214": {
+        "tag": "BUSN 103",
+        "name": "Introduction to Marketing",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "MR",
+            "where": "Academic Building 3333",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "John D  Grether (P)"
+        }
+    },
+    "30134": {
+        "tag": "BUSN 221",
+        "name": "Financial Accounting",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "Academic Building 4310",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Kenneth E  Williams (P)"
+        }
+    },
+    "30135": {
+        "tag": "BUSN 303",
+        "name": "New Venture Creation: Entrepreneurship",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 3338",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "John D  Grether (P)"
+        }
+    },
+    "30226": {
+        "tag": "BUSN 312",
+        "name": "Management Science",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 4103",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Lawrence J  Navarre (P)"
+        }
+    },
+    "30136": {
+        "tag": "BUSN 331",
+        "name": "Financial Management",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "Academic Building 4101",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Kenneth E  Williams (P)"
+        }
+    },
+    "30366": {
+        "tag": "BUSN 402",
+        "name": "Business Law",
+        "section": "01",
+        "desc": "An introduction to the law and legal institutions in society, with emphasis on areas of law relevant to business. This class is open to both business and non-business students. \u00a0Course topics include the fundamentals of business law and all of the major components.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 3333",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Donald G  Rockwell (P)"
+        }
+    },
+    "30121": {
+        "tag": "CHME 200",
+        "name": "Mass & Energy Balance",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 3112",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30341": {
+        "tag": "CHME 310",
+        "name": "Fluid Dynamics and Heat Transfer",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 3222",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30343": {
+        "tag": "CHME 325",
+        "name": "Fluid Dynamics and Heat Transfer Lab",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Undergraduate"
+        ],
+        "credits": "2.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 12:00 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 3250",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30511": {
+        "tag": "CHME 425",
+        "name": "Separations, Reactions, and Prototyping Lab",
+        "section": "01",
+        "desc": "This laboratory applies principles of reaction engineering and separations to the fabrication of a student-designed process. Topics covered include literature reviews, process safety, application and optimization of separation processes and reactors, process simulation, and design and fabrication of reactive and separation processes. Binary and multicomponent separation experiments include distillation, absorption, adsorption, filtration, and drying. Reaction engineering experiences include design of experiments to collect and regress reaction kinetic data and operation of batch and flow chemical reactors. This course will culminate in the demonstration of a student designed and built chemical engineering process.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 5:20 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 3250",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30469": {
+        "tag": "CHME 430",
+        "name": "Process Controls",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 3112",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30115": {
+        "tag": "CHME 480",
+        "name": "Senior Chemical Engr Design II",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 3112",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30001": {
+        "tag": "CHEM 135",
+        "name": "Principles of Chemistry",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "9:05 am - 10:05 am",
+            "days": "MWF",
+            "where": "CS Mott Engrn & Science Center 3225",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30002": {
+        "tag": "CHEM 135",
+        "name": "Principles of Chemistry",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "11:20 am - 12:20 pm",
+            "days": "MWF",
+            "where": "Academic Building 2225",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30373": {
+        "tag": "CHEM 135",
+        "name": "Principles of Chemistry",
+        "section": "03",
+        "desc": "This course introduces fundamental concepts and applications of chemistry, including atomic structure, the Periodic Table, chemical bonding,reaction stoichiometry, thermochemistry, ideal gas laws, and electrochemistry.  Applied topics include batteries, fuel cells and corrosion, and a description of the chemistry and uses of metals and nonmetals are included.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:20 pm",
+            "days": "MWF",
+            "where": "Academic Building 2225",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30513": {
+        "tag": "CHEM 135",
+        "name": "Principles of Chemistry",
+        "section": "04",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "2:25 pm - 3:25 pm",
+            "days": "MWF",
+            "where": "CS Mott Engrn & Science Center 3225",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30003": {
+        "tag": "CHEM 136",
+        "name": "Principles of Chemistry Lab",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "T",
+            "where": "CS Mott Engrn & Science Center 3251",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30004": {
+        "tag": "CHEM 136",
+        "name": "Principles of Chemistry Lab",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "T",
+            "where": "CS Mott Engrn & Science Center 3251",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30005": {
+        "tag": "CHEM 136",
+        "name": "Principles of Chemistry Lab",
+        "section": "03",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "T",
+            "where": "CS Mott Engrn & Science Center 3251",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30452": {
+        "tag": "CHEM 136",
+        "name": "Principles of Chemistry Lab",
+        "section": "04",
+        "desc": "The laboratory introduces and/or illustrates chemical concepts and principles, and teaches the skills of data collection and evaluation. The SI system is emphasized.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "R",
+            "where": "CS Mott Engrn & Science Center 3251",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30006": {
+        "tag": "CHEM 136",
+        "name": "Principles of Chemistry Lab",
+        "section": "05",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "R",
+            "where": "CS Mott Engrn & Science Center 3251",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30007": {
+        "tag": "CHEM 136",
+        "name": "Principles of Chemistry Lab",
+        "section": "06",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "R",
+            "where": "CS Mott Engrn & Science Center 3251",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30453": {
+        "tag": "CHEM 347",
+        "name": "Organic Chemistry II",
+        "section": "01",
+        "desc": "A continuation of CHEM-345 with an emphasis on the chemistry of the organic functional groups and the synthesis of polyfunctional molecules will be provided. Appropriate for science majors.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 3222",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30454": {
+        "tag": "CHEM 347",
+        "name": "Organic Chemistry II",
+        "section": "02X",
+        "desc": "A continuation of CHEM-345 with an emphasis on the chemistry of the organic functional groups and the synthesis of polyfunctional molecules will be provided. Appropriate for science majors.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MRF",
+            "where": "CS Mott Engrn & Science Center 3222",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30455": {
+        "tag": "CHEM 348",
+        "name": "Organic Chemistry II Lab",
+        "section": "01",
+        "desc": "A continuation of CHEM-346 with an emphasis on the advanced techniques used to synthesize multifunctional organic compounds will be provided. Instrumental methods will be intensively utilized to characterize complex chemical structures.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "2.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 5:40 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 3222",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30009": {
+        "tag": "CHEM 361",
+        "name": "Physical Chemistry I",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 3222",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30010": {
+        "tag": "CHEM 362",
+        "name": "Physical Chemistry I Lab",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 12:20 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 3222",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30514": {
+        "tag": "CHEM 451",
+        "name": "Biochemistry II",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 3222",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30515": {
+        "tag": "CHEM 452",
+        "name": "Biochemistry II Lab",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 5:40 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 3231",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30047": {
+        "tag": "COMM 101",
+        "name": "Rhetoric & Writing",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 4309",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30048": {
+        "tag": "COMM 101",
+        "name": "Rhetoric & Writing",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "Academic Building 4501",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30049": {
+        "tag": "COMM 101",
+        "name": "Rhetoric & Writing",
+        "section": "03",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 4501",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30021": {
+        "tag": "CE 210",
+        "name": "Intro to Digital Systems Design",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:50 pm",
+            "days": "MR",
+            "where": "Academic Building 2716",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Jungme   Park (P)"
+        }
+    },
+    "30152": {
+        "tag": "CE 210",
+        "name": "Intro to Digital Systems Design",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 9:30 am",
+            "days": "MR",
+            "where": "Academic Building 2761",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Deepali Gaur  Acharya (P)"
+        }
+    },
+    "30022": {
+        "tag": "CE 210",
+        "name": "Intro Digital Sys Design Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "W",
+            "where": "Academic Building 2821",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Jungme   Park (P)"
+        }
+    },
+    "30023": {
+        "tag": "CE 210",
+        "name": "Intro Digital Sys Design Lab",
+        "section": "03L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "W",
+            "where": "Academic Building 2821",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Deepali Gaur  Acharya (P)"
+        }
+    },
+    "30113": {
+        "tag": "CE 210",
+        "name": "Intro Digital Sys Design Lab",
+        "section": "04L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "T",
+            "where": "Academic Building 2821",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Jungme   Park (P)"
+        }
+    },
+    "30024": {
+        "tag": "CE 320",
+        "name": "Intro to Microcomputers",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:45 am",
+            "days": "MR",
+            "where": "Academic Building 2716",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Jungme   Park (P)"
+        }
+    },
+    "30025": {
+        "tag": "CE 320",
+        "name": "Intro to Microcomputers Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 2823",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Jungme   Park (P)"
+        }
+    },
+    "30026": {
+        "tag": "CE 420",
+        "name": "Microcomputer Systems",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:50 pm",
+            "days": "MR",
+            "where": "Academic Building 2911",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Nozar   Tabrizi (P)"
+        }
+    },
+    "30027": {
+        "tag": "CE 420",
+        "name": "Microcomputer Systems Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "T",
+            "where": "Academic Building 2823",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Nozar   Tabrizi (P)"
+        }
+    },
+    "30517": {
+        "tag": "CE 424",
+        "name": "VLSI Design",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:05 pm",
+            "days": "MR",
+            "where": "Academic Building 2761",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Nozar   Tabrizi (P)"
+        }
+    },
+    "30518": {
+        "tag": "CE 424",
+        "name": "VLSI Design Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "W",
+            "where": "Academic Building 2823",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Nozar   Tabrizi (P)"
+        }
+    },
+    "30028": {
+        "tag": "CE 480",
+        "name": "Computer Networks",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 9:30 am",
+            "days": "MR",
+            "where": "Academic Building 2907",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "David L  Foster (P)"
+        }
+    },
+    "30029": {
+        "tag": "CE 480",
+        "name": "Computer Networks Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "W",
+            "where": "Academic Building 2823",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "David L  Foster (P)"
+        }
+    },
+    "30345": {
+        "tag": "CE 484",
+        "name": "Internet of Things (IoT)",
+        "section": "01",
+        "desc": "The most important topics of the Internet of Things and its applications will be addressed. Topics include an introduction to network stacks and embedded operating systems, IoT architecture models, smart devices, connections and access technologies, the IoT network layer, application layer protocols relevant to IoT, and IoT security practices. Various IoT application areas will be discussed, such as industrial, home automation, manufacturing, energy, utilities, vehicles, smart cities, agriculture and health care. Students complete a term project to develop a complete IoT application.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:45 am",
+            "days": "MR",
+            "where": "Academic Building 2911",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "David L  Foster (P)"
+        }
+    },
+    "30346": {
+        "tag": "CE 484",
+        "name": "Internet of Things (IoT) LAB",
+        "section": "02L",
+        "desc": "The most important topics of the Internet of Things and its applications will be addressed. Topics include an introduction to network stacks and embedded operating systems, IoT architecture models, smart devices, connections and access technologies, the IoT network layer, application layer protocols relevant to IoT, and IoT security practices. Various IoT application areas will be discussed, such as industrial, home automation, manufacturing, energy, utilities, vehicles, smart cities, agriculture and health care. Students complete a term project to develop a complete IoT application.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 2821",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "David L  Foster (P)"
+        }
+    },
+    "30519": {
+        "tag": "CE 620",
+        "name": "Microcomputer Systems",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:50 pm",
+            "days": "MR",
+            "where": "Academic Building 2911",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Nozar   Tabrizi (P)"
+        }
+    },
+    "30245": {
+        "tag": "CE 620",
+        "name": "Microcomputer Systems Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "W",
+            "where": "Academic Building 2823",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Nozar   Tabrizi (P)"
+        }
+    },
+    "30520": {
+        "tag": "CE 624",
+        "name": "VLSI Design",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:05 pm",
+            "days": "MR",
+            "where": "Academic Building 2761",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Nozar   Tabrizi (P)"
+        }
+    },
+    "30521": {
+        "tag": "CE 624",
+        "name": "VLSI Design Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "W",
+            "where": "Academic Building 2823",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Nozar   Tabrizi (P)"
+        }
+    },
+    "30522": {
+        "tag": "CE 680",
+        "name": "Computer Networks",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 9:30 am",
+            "days": "MR",
+            "where": "Academic Building 2907",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "David L  Foster (P)"
+        }
+    },
+    "30246": {
+        "tag": "CE 680",
+        "name": "Computer Networks Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "W",
+            "where": "Academic Building 2823",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "David L  Foster (P)"
+        }
+    },
+    "30350": {
+        "tag": "CE 684",
+        "name": "Internet of Things (IoT)",
+        "section": "01",
+        "desc": "The most important topics of the Internet of Things and its applications will be addressed. Topics include an introduction to network stacks and embedded operating systems, IoT architecture models, smart devices, connections and access technologies, the IoT network layer, application layer protocols relevant to IoT, and IoT security practices. Various IoT application areas will be discussed, such as industrial, home automation, manufacturing, energy, utilities, vehicles, smart cities, agriculture and health care. Students complete a term project to develop a complete IoT application. Students are also required to complete a research project, to be determined and assigned with approval of the instructor. Students may not receive credit for both CE-484 and CE-684.",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:45 am",
+            "days": "MR",
+            "where": "Academic Building 2911",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "David L  Foster (P)"
+        }
+    },
+    "30351": {
+        "tag": "CE 684",
+        "name": "Internet of Things (IoT)",
+        "section": "02L",
+        "desc": "The most important topics of the Internet of Things and its applications will be addressed. Topics include an introduction to network stacks and embedded operating systems, IoT architecture models, smart devices, connections and access technologies, the IoT network layer, application layer protocols relevant to IoT, and IoT security practices. Various IoT application areas will be discussed, such as industrial, home automation, manufacturing, energy, utilities, vehicles, smart cities, agriculture and health care. Students complete a term project to develop a complete IoT application. Students are also required to complete a research project, to be determined and assigned with approval of the instructor. Students may not receive credit for both CE-484 and CE-684.",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 2821",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "David L  Foster (P)"
+        }
+    },
+    "30249": {
+        "tag": "CS 100",
+        "name": "Introduction to Programming & Computation",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "W",
+            "where": "Academic Building 4310",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Changxin   Bai (P)"
+        }
+    },
+    "30116": {
+        "tag": "CS 101",
+        "name": "Computing & Algorithms I",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "TWF",
+            "where": "Academic Building 4310",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Changxin   Bai (P)"
+        }
+    },
+    "30117": {
+        "tag": "CS 101",
+        "name": "Computing & Algorithms I",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MWR",
+            "where": "Academic Building 4103",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Travis   Perdue (P)"
+        }
+    },
+    "30032": {
+        "tag": "CS 102",
+        "name": "Computing & Algorithms II",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 4103",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Travis   Perdue (P)"
+        }
+    },
+    "30034": {
+        "tag": "CS 203",
+        "name": "Computing & Algorithms III",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "W",
+            "where": "Academic Building 3506",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Giuseppe   Turini (P)"
+        }
+    },
+    "30033": {
+        "tag": "CS 211",
+        "name": "Discrete Mathematics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "MR",
+            "where": "Academic Building 4303",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Travis   Perdue (P)"
+        }
+    },
+    "30444": {
+        "tag": "CS 231",
+        "name": "Programming Language Paradigms",
+        "section": "01",
+        "desc": "This course examines imperative and functional programming paradigms.  Imperative paradigm topics include: data representation, dynamic structures, parameter passing, memory management, and I/O.  Functional paradigm topics include: lists, first class and higher order functions, lazy evaluations, and infinite data structures.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "W",
+            "where": "Academic Building 4305",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Saroja P  Kanchi (P)"
+        }
+    },
+    "30036": {
+        "tag": "CS 300",
+        "name": "The Computing Professional",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 4312",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "James K  Huggins (P)"
+        }
+    },
+    "30035": {
+        "tag": "CS 312",
+        "name": "Theory of Computation",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 4309",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "James K  Huggins (P)"
+        }
+    },
+    "30447": {
+        "tag": "CS 351",
+        "name": "Cloud Computing",
+        "section": "01",
+        "desc": "A comprehensive overview of cloud computing and its application such as big data and machine learning.  Current technologies that comprise the concept of cloud computing are discussed. Exploration of major Cloud frameworks and their applications.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 3506",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Rui   Zhu (P)"
+        }
+    },
+    "30252": {
+        "tag": "CS 391",
+        "name": "Software for Security of Connected & IoT Systems",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 3506",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Rui   Zhu (P)"
+        }
+    },
+    "30360": {
+        "tag": "CS 420",
+        "name": "Introduction to Virtual Reality",
+        "section": "01",
+        "desc": "An introduction to the basics of multimedia design and development. Topics include 3D mesh modeling, animation, video editing, audio editing, and the development of interactive virtual environments.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 3507",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Giuseppe   Turini (P)"
+        }
+    },
+    "30037": {
+        "tag": "CS 451",
+        "name": "Operating Systems",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "W",
+            "where": "Academic Building 4305",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Saroja P  Kanchi (P)"
+        }
+    },
+    "30148": {
+        "tag": "CS 458",
+        "name": "Digital Forensics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "W",
+            "where": "Academic Building 3334",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Rui   Zhu (P)"
+        }
+    },
+    "30449": {
+        "tag": "CS 471",
+        "name": "Software Engineering",
+        "section": "01",
+        "desc": "Approaches and techniques for designing and developing large software systems.  Software life cycles --  object-oriented and agile design techniques are emphasized.   Requirements, specification, design, and documentation through design patterns and modeling languages.  Software quality assurance, validation and verification.  Security features designed into system. Project team organization and management.  Students will work in teams on a substantial software project.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 4507",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Lisa M  Gandy (P)"
+        }
+    },
+    "30364": {
+        "tag": "CS 482",
+        "name": "Machine Learning",
+        "section": "01",
+        "desc": "This course provides an introduction to machine learning. Topics include: supervised learning including generative, discriminative learning, parametric and non-parametric learning, neural networks, support vector machines; unsupervised learning including clustering, dimensionality reduction, kernel methods, learning theory bias/variance trade-offs, VC theory, large margins, reinforcement learning. The course will also include applications of machine learning to big data.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 4305",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Saroja P  Kanchi (P)"
+        }
+    },
+    "30365": {
+        "tag": "CS 682",
+        "name": "Machine Learning",
+        "section": "01",
+        "desc": "This course provides an introduction to machine learning. Topics include: supervised learning including generative, discriminative learning, parametric and non-parametric learning, neural networks, support vector machines; unsupervised learning including clustering, dimensionality reduction, kernel methods; learning theory bias/variance trade-offs; VC theory; large margins; reinforcement learning. The course will also include applications of machine learning to big data.",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 4305",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Saroja P  Kanchi (P)"
+        }
+    },
+    "30051": {
+        "tag": "ECON 201",
+        "name": "Economic Principles",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "Academic Building 4309",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30052": {
+        "tag": "ECON 201",
+        "name": "Economic Principles",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 4310",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30458": {
+        "tag": "ECON 354",
+        "name": "Money and Banking",
+        "section": "01",
+        "desc": "The course aims to provide the student with an introduction to the role of money, financial markets, financial institutions, and monetary policy in the economy. It will focus on the changing nature of money and the payments system as technology changes, the measurement of money, the role of the banking system in the creation of money and influencing the level of economic activity; the role of the central bank in regulating the banking system and pursuing monetary policy. The role of the financial system in linking investors and savers, providing information and reducing risk in the financing market will be emphasized.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "Academic Building 4309",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30465": {
+        "tag": "ECE 101",
+        "name": "MATLAB and C Programming",
+        "section": "01",
+        "desc": "The fundamentals of the MATLAB and C programming languages are covered. Special emphasis will be placed on using the tools acquired in this class to solve problems faced by electrical and computer engineers.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 3502",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Deepali Gaur  Acharya (P)"
+        }
+    },
+    "30466": {
+        "tag": "ECE 101",
+        "name": "MATLAB and C Programming",
+        "section": "02",
+        "desc": "The fundamentals of the MATLAB and C programming languages are covered. Special emphasis will be placed on using the tools acquired in this class to solve problems faced by electrical and computer engineers.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 3502",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Deepali Gaur  Acharya (P)"
+        }
+    },
+    "30075": {
+        "tag": "EE 210",
+        "name": "Circuits I",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 9:30 am",
+            "days": "TF",
+            "where": "Academic Building 2911",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Mohammad   Torfeh-Isfahani (P)"
+        }
+    },
+    "30076": {
+        "tag": "EE 211",
+        "name": "Circuits I Lab",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "W",
+            "where": "Academic Building 2824",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Mohammad   Torfeh-Isfahani (P)"
+        }
+    },
+    "30020": {
+        "tag": "EE 240",
+        "name": "Electromagnetic Fields and Applications",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "Academic Building 2716",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Huseyin R  Hiziroglu (P)"
+        }
+    },
+    "30056": {
+        "tag": "EE 310",
+        "name": "Circuits II",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "Academic Building 2761",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Allan Ray  Taylor (P)"
+        }
+    },
+    "30486": {
+        "tag": "EE 312",
+        "name": "PCB Design & Testing",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 3502",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Allan Ray  Taylor (P)"
+        }
+    },
+    "30077": {
+        "tag": "EE 320",
+        "name": "Electronics I",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:45 am",
+            "days": "TF",
+            "where": "Academic Building 2907",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Huseyin R  Hiziroglu (P)"
+        }
+    },
+    "30078": {
+        "tag": "EE 321",
+        "name": "Electronics I Laboratory",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 2824",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Huseyin R  Hiziroglu (P)"
+        }
+    },
+    "30118": {
+        "tag": "EE 336",
+        "name": "Contin Time Sgnls & Sytms",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "TF",
+            "where": "Academic Building 2716",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Wen-Chiao   Lin (P)"
+        }
+    },
+    "30067": {
+        "tag": "EE 432",
+        "name": "Feedback Control Systems",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:50 pm",
+            "days": "TF",
+            "where": "Academic Building 2907",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Mohammad   Torfeh-Isfahani (P)"
+        }
+    },
+    "30068": {
+        "tag": "EE 432",
+        "name": "Feedback Control Systems Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "W",
+            "where": "Academic Building 2824",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Mohammad   Torfeh-Isfahani (P)"
+        }
+    },
+    "30054": {
+        "tag": "EE 490",
+        "name": "Senior Electrical Engineering Design Project",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "T",
+            "where": "Academic Building 2911",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Wen-Chiao   Lin (P)"
+        }
+    },
+    "30055": {
+        "tag": "EE 490",
+        "name": "Senior EE Engnrg Desgn Prj Lab",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "TBA",
+            "days": "",
+            "where": "TBA",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Wen-Chiao   Lin (P)"
+        }
+    },
+    "30551": {
+        "tag": "HIST 306",
+        "name": "International Relations",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 4310",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30320": {
+        "tag": "IME 100",
+        "name": "Interdisciplinary Design and Manufacturing",
+        "section": "01",
+        "desc": "This introductory class exposes students to basic design principles, the materials of manufacture, their structure and properties, and methods of processing them into everyday products. A laboratory experience provides hands-on experience in many of these processes. A second laboratory provides experience in mechanical design and electrical and computer manufacturing.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "W",
+            "where": "Academic Building 1819",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Andrew Lawrence  Watchorn (P), Heidi L  Arvin"
+        }
+    },
+    "30105": {
+        "tag": "IME 100",
+        "name": "Interdisciplinary Design and Manufacturing",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "W",
+            "where": "Academic Building 1819",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Andrew Lawrence  Watchorn (P), Heidi L  Arvin"
+        }
+    },
+    "30088": {
+        "tag": "IME 100",
+        "name": "Interdisciplinary Design and Manufacturing",
+        "section": "03",
+        "desc": "Must register for linked 'L' lab and 'D' lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 1819",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Andrew Lawrence  Watchorn (P), Heidi L  Arvin"
+        }
+    },
+    "30321": {
+        "tag": "IME 100",
+        "name": "Interdisciplinary Design and Manufacturing",
+        "section": "04",
+        "desc": "This introductory class exposes students to basic design principles, the materials of manufacture, their structure and properties, and methods of processing them into everyday products. A laboratory experience provides hands-on experience in many of these processes. A second laboratory provides experience in mechanical design and electrical and computer manufacturing.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 1819",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Andrew Lawrence  Watchorn (P), Heidi L  Arvin"
+        }
+    },
+    "30527": {
+        "tag": "IME 321",
+        "name": "Operations Research - Deterministic Models",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "MR",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Scott E  Grasman (P)"
+        }
+    },
+    "30082": {
+        "tag": "IME 332",
+        "name": "Engineering Statistics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Farnaz   Ghazi Nezami (P)"
+        }
+    },
+    "30241": {
+        "tag": "IME 412",
+        "name": "Applied Control Systems Design",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "W",
+            "where": "Academic Building 1209",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Andrew Lawrence  Watchorn (P)"
+        }
+    },
+    "30084": {
+        "tag": "IME 422",
+        "name": "Simulation",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 1210",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "William S.  Edwards (P)"
+        }
+    },
+    "30083": {
+        "tag": "IME 453",
+        "name": "Supply Chain Design",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Farnaz   Ghazi Nezami (P)"
+        }
+    },
+    "30085": {
+        "tag": "IME 454",
+        "name": "Senior Design Project",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "W",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Torsten   Maier (P)"
+        }
+    },
+    "30529": {
+        "tag": "IME 463",
+        "name": "Safety and Human Factors",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Torsten   Maier (P)"
+        }
+    },
+    "30531": {
+        "tag": "IME 476",
+        "name": "Lean Six Sigma",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "William S.  Edwards (P)"
+        }
+    },
+    "30528": {
+        "tag": "IME 622",
+        "name": "Simulation",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 1210",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "William S.  Edwards (P)"
+        }
+    },
+    "30412": {
+        "tag": "IME 653",
+        "name": "Tools for Managing the Supply Chain",
+        "section": "01",
+        "desc": "Students gain an understanding of the decision-making process required to design and manage the global supply chain. This course covers basic principles of supply chain management and provides techniques used to analyze various aspects of logistics systems. Key concepts such as warehousing, distribution, facility location planning, probabilistic project management, and resource scheduling are examined as an integral part of modern business. The course addresses insights, concepts, and practical tools that are important for the effective management of the supply chain. Graduate students will be required to do additional projects/assignments related to supply chain management. Students may not receive credit for both IME-453 and IME-653.",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Farnaz   Ghazi Nezami (P)"
+        }
+    },
+    "30530": {
+        "tag": "IME 663",
+        "name": "Safety & Human Factors",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Torsten   Maier (P)"
+        }
+    },
+    "30532": {
+        "tag": "IME 676",
+        "name": "Lean Six Sigma",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "William S.  Edwards (P)"
+        }
+    },
+    "30172": {
+        "tag": "CILE 101",
+        "name": "First Year Foundations",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "9:05 am - 10:05 am",
+            "days": "T",
+            "where": "Academic Building 2903",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Shari   Luck (P)"
+        }
+    },
+    "30173": {
+        "tag": "CILE 101",
+        "name": "First Year Foundations",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:20 pm",
+            "days": "T",
+            "where": "Academic Building 2903",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Shari   Luck (P)"
+        }
+    },
+    "30406": {
+        "tag": "LA 489",
+        "name": "Sr. Seminar:Leadership, Ethics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 4301",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30407": {
+        "tag": "LA 489",
+        "name": "Sr. Seminar:Leadership, Ethics",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "Academic Building 4301",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30408": {
+        "tag": "LA 489",
+        "name": "Sr. Seminar:Leadership, Ethics",
+        "section": "03",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 4301",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30507": {
+        "tag": "LIT 291",
+        "name": "Literature and Society",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 4101",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30459": {
+        "tag": "LIT 307",
+        "name": "Poetry: Substance and Structure",
+        "section": "01",
+        "desc": "An analysis of poetry written in the context of the development of intellectual concepts. Emphasis is on the philosophical content, its moral and ethical dimensions, structure, and the intellectual climate which gave rise to significant aesthetic ideals. Biography and critical interpretation are included.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "MR",
+            "where": "Academic Building 4310",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30509": {
+        "tag": "LIT 307",
+        "name": "Poetry: Substance and Structure",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 4303",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30312": {
+        "tag": "LIT 374",
+        "name": "Seminar on J.R.R. Tolkien",
+        "section": "01",
+        "desc": "This seminar examines a range of J.R.R. Tolkien\u00e2\u20ac\u2122s works. These may include his epic, The Lord of the Rings in both the written and film versions (all viewings of the film will occur outside of class), his extended mythology in his unfinished The Silmarillion, his short stories and essays, and his shorter fantasy work The Hobbit. The course focuses on genre, style and themes of the works, with particular emphasis on the elements of myth and epic, and on the complex ways in which his work as a medieval scholar comes to bear on his writings and their interpretation.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "Academic Building 4101",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30206": {
+        "tag": "MGMT 205",
+        "name": "Organizational Behavior",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "TF",
+            "where": "Academic Building 4303",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Omar Rashid  Malik (P)"
+        }
+    },
+    "30205": {
+        "tag": "MGMT 313",
+        "name": "Marketing Research",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 4102",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Lawrence J  Navarre (P)"
+        }
+    },
+    "30526": {
+        "tag": "MGMT 391",
+        "name": "Kyrgyz Republic: \"The Crossroads of Asia, Yesterday, Today, and Tomorrow\"",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "TBA",
+            "days": "",
+            "where": "TBA",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "John D  Grether (P)"
+        }
+    },
+    "30210": {
+        "tag": "MGMT 419",
+        "name": "Project Management",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 4309",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Lawrence J  Navarre (P)"
+        }
+    },
+    "30523": {
+        "tag": "MGMT 424",
+        "name": "Data Visualization",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 3333",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Omar Rashid  Malik (P)"
+        }
+    },
+    "30367": {
+        "tag": "MGMT 479",
+        "name": "Leadership",
+        "section": "01",
+        "desc": "A comprehensive examination of different leadership theories and models along with leadership development emphasizing relevant empirical evidence and application of these constructs to case studies that involve leadership and group functioning. Additionally, process of decision-making in a variety of leadership settings will be introduced, including the processes of leading independently or with direct authority. The distinction between leadership and management, crucial role of leadership when managing groups and teams, and the importance of ethical conduct and persuasion in effective leadership are covered.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "6:00 pm - 8:00 pm",
+            "days": "MR",
+            "where": "Academic Building 4309",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "John D  Grether (P)"
+        }
+    },
+    "30525": {
+        "tag": "MGMT 484",
+        "name": "Business Consulting Project",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 4102",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Kenneth E  Williams (P)"
+        }
+    },
+    "30185": {
+        "tag": "MGMT 619",
+        "name": "Project Management",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 4309",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Lawrence J  Navarre (P)"
+        }
+    },
+    "30524": {
+        "tag": "MGMT 624",
+        "name": "Data Visualization",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 3333",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Omar Rashid  Malik (P)"
+        }
+    },
+    "30369": {
+        "tag": "MGMT 679",
+        "name": "Leadership",
+        "section": "02",
+        "desc": "A comprehensive examination of different leadership theories and models along with leadership development with emphasis on relevant empirical evidence and application of these constructs to case studies that involve leadership and group functioning. Additionally, process of decision-making in a variety of leadership settings will be introduced, including the processes of leading independently or with direct authority. The distinction between leadership and management, crucial role of leadership when managing groups and teams, and the importance of ethical conduct and persuasion in effective leadership are covered. This course cannot be repeated to earn credits for both MGMT-479 and MGMT-679 and there will be different course requirements for undergraduate and graduate levels.",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "6:00 pm - 8:00 pm",
+            "days": "MR",
+            "where": "Academic Building 4309",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "John D  Grether (P)"
+        }
+    },
+    "30370": {
+        "tag": "MRKT 679",
+        "name": "Marketing Management",
+        "section": "01",
+        "desc": "In this course, students will gain a managerial perspective on how organizations understand and select target markets, and then how they attract, retain and grow customers within those selected markets.  A strategic perspective of how firms create, deliver, and communicate superior customer value for competitive advantage will be emphasized. Students will gain understanding of the analysis, planning, implementation, and control of activities to develop and sustain beneficial exchanges with target buyers.",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "TF",
+            "where": "Academic Building 4101",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30553": {
+        "tag": "MATH 091",
+        "name": "Intro to College Mathematics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:15 am",
+            "days": "TR",
+            "where": "Academic Building 1817",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30222": {
+        "tag": "MATH 100",
+        "name": "College Mathematics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:20 pm",
+            "days": "MTWRF",
+            "where": "Academic Building 3334",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30240": {
+        "tag": "MATH 100",
+        "name": "College Mathematics",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:15 am",
+            "days": "TR",
+            "where": "Academic Building 1817",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30011": {
+        "tag": "MATH 101",
+        "name": "Calculus I",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:15 am",
+            "days": "MTRF",
+            "where": "Academic Building 4312",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30217": {
+        "tag": "MATH 101X",
+        "name": "Calculus I",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "9:05 am - 10:05 am",
+            "days": "MTWRF",
+            "where": "Academic Building 3334",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30218": {
+        "tag": "MATH 101X",
+        "name": "Calculus I",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "2:25 pm - 3:25 pm",
+            "days": "MTWRF",
+            "where": "Academic Building 3338",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30110": {
+        "tag": "MATH 102",
+        "name": "Calculus II",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:15 am",
+            "days": "MTRF",
+            "where": "Academic Building 4104",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30219": {
+        "tag": "MATH 102X",
+        "name": "Calculus II",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 4:35 pm",
+            "days": "MTWRF",
+            "where": "Academic Building 4102",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30220": {
+        "tag": "MATH 102X",
+        "name": "Calculus II",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "9:05 am - 10:05 am",
+            "days": "MTWRF",
+            "where": "Academic Building 4102",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30015": {
+        "tag": "MATH 203",
+        "name": "Multivariate Calculus",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "9:05 am - 10:05 am",
+            "days": "MTRF",
+            "where": "Academic Building 4309",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30014": {
+        "tag": "MATH 203",
+        "name": "Multivariate Calculus",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "2:25 pm - 3:25 pm",
+            "days": "MTRF",
+            "where": "Academic Building 4102",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30221": {
+        "tag": "MATH 203X",
+        "name": "Multivariate Calculus",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:20 pm",
+            "days": "MTWRF",
+            "where": "Academic Building 4104",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30016": {
+        "tag": "MATH 204",
+        "name": "Differential Equations & Laplace Transforms",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "9:05 am - 10:05 am",
+            "days": "MTRF",
+            "where": "Academic Building 3338",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30017": {
+        "tag": "MATH 204",
+        "name": "Differential Equations & Laplace Transforms",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:20 pm",
+            "days": "MTRF",
+            "where": "Academic Building 3338",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30179": {
+        "tag": "MATH 258",
+        "name": "Probability and Statistics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "MR",
+            "where": "Academic Building 4103",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30180": {
+        "tag": "MATH 258",
+        "name": "Probability and Statistics",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 2716",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30181": {
+        "tag": "MATH 258",
+        "name": "Probability and Statistics",
+        "section": "03",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "Academic Building 4101",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30071": {
+        "tag": "MATH 305",
+        "name": "Numerical Methods and Matrices",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "2:25 pm - 3:25 pm",
+            "days": "MTRF",
+            "where": "Academic Building 4104",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30087": {
+        "tag": "MATH 305",
+        "name": "Numerical Methods and Matrices",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "9:05 am - 10:05 am",
+            "days": "MTRF",
+            "where": "Academic Building 4312",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30019": {
+        "tag": "MATH 307",
+        "name": "Matrix Algebra",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "2:25 pm - 3:25 pm",
+            "days": "MTRF",
+            "where": "Academic Building 4305",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30490": {
+        "tag": "MECH 111",
+        "name": "Computer Programming for MEs",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2246",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Kent S  Eddy (P)"
+        }
+    },
+    "30491": {
+        "tag": "MECH 111",
+        "name": "Computer Programming for MEs",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2246",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Kent S  Eddy (P)"
+        }
+    },
+    "30500": {
+        "tag": "MECH 111",
+        "name": "Computer Programming for MEs",
+        "section": "03",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2246",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Kent S  Eddy (P)"
+        }
+    },
+    "30069": {
+        "tag": "MECH 210",
+        "name": "Statics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 1221",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Jeffrey B  Hargrove (P)"
+        }
+    },
+    "30038": {
+        "tag": "MECH 210",
+        "name": "Statics",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 1221",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Jeffrey B  Hargrove (P)"
+        }
+    },
+    "30533": {
+        "tag": "MECH 211",
+        "name": "Circuits and Mechatronics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 2234",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Christopher M  George (P)"
+        }
+    },
+    "30534": {
+        "tag": "MECH 211",
+        "name": "Circuits and Mechatronics",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2234",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Brenda S  Lemke (P)"
+        }
+    },
+    "30552": {
+        "tag": "MECH 211",
+        "name": "Circuits and Mechatronics",
+        "section": "03",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2234",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Brenda S  Lemke (P)"
+        }
+    },
+    "30058": {
+        "tag": "MECH 212",
+        "name": "Mechanics of Materials",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 2146",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Yaomin   Dong (P)"
+        }
+    },
+    "30285": {
+        "tag": "MECH 212",
+        "name": "Mechanics of Materials",
+        "section": "02",
+        "desc": "The fundamental topics of this course include: normal and shear stress and strain, Hooke\u00e2\u20ac\u2122s law, Poisson\u00e2\u20ac\u2122s ratio, generalized Hooke\u00e2\u20ac\u2122s law, axial translation, torsion of circular bars, angle of twist, bending of beams, flexure formula, flexural shear stress, beam deflections, combined stresses, transformation of stresses, Mohr\u00e2\u20ac\u2122s circle, statically indeterminate problems, columns. The use of basic computational tools will be introduced at the end of several lecture modules including: axial loading, torsional loading, and flexural loading. Homework and design projects will be assigned.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 2116",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Yaomin   Dong (P)"
+        }
+    },
+    "30123": {
+        "tag": "MECH 300",
+        "name": "Computer Aided Engineering",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2130",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Arnaldo J  Mazzei Jr. (P)"
+        }
+    },
+    "30124": {
+        "tag": "MECH 300",
+        "name": "Computer Aided Engineering",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2130",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Arnaldo J  Mazzei Jr. (P)"
+        }
+    },
+    "30166": {
+        "tag": "MECH 307",
+        "name": "Materials Engineering",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "TF",
+            "where": "Academic Building 1819",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Laura L  Sullivan (P)"
+        }
+    },
+    "30289": {
+        "tag": "MECH 307",
+        "name": "Materials Engineering",
+        "section": "02",
+        "desc": "This course will develop the skills of identifying appropriate materials for a given design by considering mechanical properties which are based on experimental data. The manner in which processing can be used to engineer a material for specific applications will be explored. The mechanical performance of materials will be assessed by comparing a range of properties; strength, modulus, Poisson's ration, coefficient of thermal expansion, ductility, toughness, corrosivity, and others. Students will learn which properties can and cannot be engineered to meet a specific need via alloying and/or heat treating.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "Academic Building 1819",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Laura L  Sullivan (P)"
+        }
+    },
+    "30040": {
+        "tag": "MECH 310",
+        "name": "Dynamics",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2146",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Massoud S  Tavakoli (P)"
+        }
+    },
+    "30535": {
+        "tag": "MECH 311",
+        "name": "Mechatronics Systems Design",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 2116",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Christopher M  George (P)"
+        }
+    },
+    "30536": {
+        "tag": "MECH 311",
+        "name": "Mechatronics Systems Design",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 2116",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Combined Lecture/Lab",
+            "instructors": "Christopher M  George (P)"
+        }
+    },
+    "30041": {
+        "tag": "MECH 312",
+        "name": "Mechanical Component Design I",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2146",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Massoud S  Tavakoli (P)"
+        }
+    },
+    "30043": {
+        "tag": "MECH 320",
+        "name": "Thermodynamics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:45 am",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 2146",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Karim J  Nasr (P)"
+        }
+    },
+    "30539": {
+        "tag": "MECH 320",
+        "name": "Thermodynamics Lab",
+        "section": "04L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 2230A",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Karim J  Nasr (P)"
+        }
+    },
+    "30540": {
+        "tag": "MECH 320",
+        "name": "Thermodynamics Lab",
+        "section": "05L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 2230A",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Karim J  Nasr (P)"
+        }
+    },
+    "30542": {
+        "tag": "MECH 322",
+        "name": "Fluid Mechanics",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 1221",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Ahmad   Pourmovahed (P)"
+        }
+    },
+    "30543": {
+        "tag": "MECH 322",
+        "name": "Fluid Mechanics Lab",
+        "section": "03L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "R",
+            "where": "CS Mott Engrn & Science Center 2230",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Ahmad   Pourmovahed (P)"
+        }
+    },
+    "30544": {
+        "tag": "MECH 322",
+        "name": "Fluid Mechanics Lab",
+        "section": "04L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "R",
+            "where": "CS Mott Engrn & Science Center 2230",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Ahmad   Pourmovahed (P)"
+        }
+    },
+    "30126": {
+        "tag": "MECH 330",
+        "name": "Dynamic Systems with Vibrations",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 2:50 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 1221",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Diane L  Peters (P)"
+        }
+    },
+    "30197": {
+        "tag": "MECH 331",
+        "name": "Dynamic Sys w Vibrations Lab",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 2240",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Diane L  Peters (P)"
+        }
+    },
+    "30470": {
+        "tag": "MECH 331",
+        "name": "Dynamic Sys w Vibrations Lab",
+        "section": "03",
+        "desc": "MECH-330 with MECH-331 is the first course in System Dynamics. MECH-331 provides an understanding into basic principles and methods underlying the development and analysis of mathematical models in the time domain. Construction of mathematical models of systems using MATLAB and Simulink is emphasized. Application of modeling techniques, design characteristics and analysis of first and second order systems is stressed. MECH-330 must be taken concurrently (or previously passed) with this course.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 2240",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Diane L  Peters (P)"
+        }
+    },
+    "30291": {
+        "tag": "MECH 420",
+        "name": "Heat Transfer",
+        "section": "01",
+        "desc": "This course addresses the principles of heat transfer by conduction, convection, radiation and energy conservation, fins, steady-state and transient problems, and analysis and selection of heat exchangers.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 11:45 am",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 1221",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Susanta K  Das (P)"
+        }
+    },
+    "30547": {
+        "tag": "MECH 420",
+        "name": "Heat Transfer Lab",
+        "section": "03L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 2138",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Susanta K  Das (P)"
+        }
+    },
+    "30549": {
+        "tag": "MECH 420",
+        "name": "Heat Transfer Lab",
+        "section": "05L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "W",
+            "where": "CS Mott Engrn & Science Center 2116",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Susanta K  Das (P)"
+        }
+    },
+    "30044": {
+        "tag": "MECH 422",
+        "name": "Energy Systems Laboratory",
+        "section": "01",
+        "desc": "Must register for linked lab",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "W",
+            "where": "Academic Building 1817",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Ahmad   Pourmovahed (P)"
+        }
+    },
+    "30045": {
+        "tag": "MECH 422",
+        "name": "Energy Systems Laboratory",
+        "section": "02L",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 2230A",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Ahmad   Pourmovahed (P)"
+        }
+    },
+    "30208": {
+        "tag": "MECH 428",
+        "name": "Bio and Renewable Energy",
+        "section": "50",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "TBA",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2240",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Brenda S  Lemke (P)"
+        }
+    },
+    "30211": {
+        "tag": "MECH 430",
+        "name": "Dynamic Systems with Controls",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 9:30 am",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2240",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Kristy   Brinker Brouwer (P)"
+        }
+    },
+    "30296": {
+        "tag": "MECH 431",
+        "name": "Dynamic Systems with Controls Lab",
+        "section": "02",
+        "desc": "MECH-430 and MECH-431 combined are a second course in System Dynamics. MECH-431 provides an understanding of time and frequency domain analysis of mathematical models. Simulation and analysis of mathematical models using MATLAB and Simulink are emphasized. Mathematical model validation is explored using hardware (e.g. DC Motors). Control system design and verification are explored using simulation and hardware (e.g. DC Motors). MECH-430 must be taken concurrently (or previously passed) with this course.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "T",
+            "where": "CS Mott Engrn & Science Center 2240",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Kristy   Brinker Brouwer (P)"
+        }
+    },
+    "30198": {
+        "tag": "MECH 431",
+        "name": "Dynamic Systems with Controls Lab",
+        "section": "03",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "T",
+            "where": "CS Mott Engrn & Science Center 2240",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "Kristy   Brinker Brouwer (P)"
+        }
+    },
+    "30209": {
+        "tag": "MECH 442",
+        "name": "Chassis Systems",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 2130",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Arnaldo J  Mazzei Jr. (P)"
+        }
+    },
+    "30212": {
+        "tag": "MECH 448",
+        "name": "Vehicle Design Project",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 1107",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Bashar   AbdulNour (P)"
+        }
+    },
+    "30374": {
+        "tag": "MECH 482",
+        "name": "Mechanics and Design Simulation of Fiber-Reinforced Composite Materials",
+        "section": "01",
+        "desc": "The properties, mechanics, and design simulation aspects of fiber-reinforced composite materials are covered in this course. Topics include: constituents and interfacial bonding, microstructure and micromechanics, theory of anisotropy, classical laminate theory, material characterization, failure and damage, manufacturing techniques, composite structure design, and introduction of nanocomposite.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 1221",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Yaomin   Dong (P)"
+        }
+    },
+    "30550": {
+        "tag": "MECH 493",
+        "name": "Senior Design 1",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 1107",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Bashar   AbdulNour (P)"
+        }
+    },
+    "30298": {
+        "tag": "MECH 495",
+        "name": "Senior Design Project",
+        "section": "01",
+        "desc": "The objective of this course is to provide a comprehensive capstone design experience that includes a design project in mechanical systems, or dynamic systems, or energy systems, based on knowledge and skills acquired in earlier coursework. The project begins with setting specific and measurable goals in a project statement. This is followed by researching and brainstorming, producing design alternatives, selecting concepts, and developing and analyzing concepts. Students work in teams to design and develop a prototype or a conceptual design to meet given specifications and to incorporate relevant engineering standards. Project updates are required throughout the course.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "MR",
+            "where": "CS Mott Engrn & Science Center 1107",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Bashar   AbdulNour (P)"
+        }
+    },
+    "30375": {
+        "tag": "MECH 682",
+        "name": "Mechanics and Design Simulation of Fiber-Reinforced Composite Materials",
+        "section": "0",
+        "desc": "The properties, mechanics, and design simulation aspects of fiber-reinforced composite materials are covered in this course. Topics include: constituents and interfacial bonding, microstructure and micromechanics, theory of anisotropy, classical laminate theory, material characterization, failure and damage, manufacturing techniques, composite structure design, and introduction of nanocomposite.",
+        "term": "Summer 2025",
+        "reg_dates": "Mar 31, 2024 to Jul 18, 2025",
+        "levels": [
+            "Graduate",
+            "Non Degree-Graduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 1221",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "Yaomin   Dong (P)"
+        }
+    },
+    "30456": {
+        "tag": "MEDI 100",
+        "name": "Integrated Medical Terminology and Practice",
+        "section": "01",
+        "desc": "An introduction to the healthcare industry, covering the rationale for the medical scribe, the role of the electronic medical record in reimbursements and delivery of quality care, as well as medical ethics and practice in a clinical setting. Through experiential and service learning components, students will develop the literacy and communication skills needed for health professions with a team-based, patient centered approach.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "CS Mott Engrn & Science Center 3225",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30377": {
+        "tag": "PHIL 391",
+        "name": "Incorporating Human Values in Engineering",
+        "section": "01",
+        "desc": "An interdisciplinary advanced course focusing on a specific topic.  This course is a one-time offering whose content is determined by current faculty interest, and provides a comprehensive and coherent examination of the chosen topic. This course may be repeated for credit under different topic",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "Academic Building 4312",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30095": {
+        "tag": "PHYS 114",
+        "name": "Newtonian Mechanics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 3333",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30096": {
+        "tag": "PHYS 114",
+        "name": "Newtonian Mechanics",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "TF",
+            "where": "Academic Building 3333",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30059": {
+        "tag": "PHYS 115",
+        "name": "Newtonian Mechanics Laboratory",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "T",
+            "where": "Academic Building 2234",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30060": {
+        "tag": "PHYS 115",
+        "name": "Newtonian Mechanics Laboratory",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "R",
+            "where": "Academic Building 2234",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30061": {
+        "tag": "PHYS 115",
+        "name": "Newtonian Mechanics Laboratory",
+        "section": "03",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "F",
+            "where": "Academic Building 2234",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30097": {
+        "tag": "PHYS 224",
+        "name": "Electricity and Magnetism",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "MR",
+            "where": "Academic Building 2225",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30098": {
+        "tag": "PHYS 224",
+        "name": "Electricity and Magnetism",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "3.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 2225",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30062": {
+        "tag": "PHYS 225",
+        "name": "Electricity and Magnetism Laboratory",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "W",
+            "where": "Academic Building 2416",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30063": {
+        "tag": "PHYS 225",
+        "name": "Electricity and Magnetism Laboratory",
+        "section": "02",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "W",
+            "where": "Academic Building 2416",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30064": {
+        "tag": "PHYS 225",
+        "name": "Electricity and Magnetism Laboratory",
+        "section": "03",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "1.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "W",
+            "where": "Academic Building 2416",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30101": {
+        "tag": "PHYS 302",
+        "name": "Vibration, Sound and Light",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "1:20 pm - 3:25 pm",
+            "days": "TF",
+            "where": "Academic Building 2234",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30516": {
+        "tag": "PHYS 354",
+        "name": "Medical Physics Principles",
+        "section": "01",
+        "desc": "This course is designed to give physicists, engineers, chemists, pre-med students, and other technical majors an introduction to the application of physics in the field of medicine. Students will be introduced to the fundamental science and real-world application of diagnostic imaging, nuclear medicine, radiation therapy, and health physics. This course will cover topics such as radiation interactions with matter, the concept of radiation dose, the effect of radiation on biology, 2D x-ray imaging, computed tomography (CT) imaging, magnetic resonance imaging (MRI), ultrasound, biomedical optics, single photon emission computed tomography (SPECT), positron emission tomography (PET), and the treatment of cancer utilizing radiation therapy.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "MR",
+            "where": "Academic Building 2234",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30070": {
+        "tag": "PHYS 412",
+        "name": "Theoretical Mechanics",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "3:35 pm - 5:40 pm",
+            "days": "TF",
+            "where": "Academic Building 3334",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30104": {
+        "tag": "PHYS 477",
+        "name": "Optics",
+        "section": "01",
+        "desc": "Must also register for PHYS-477 lab 02L",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "M",
+            "where": "Academic Building 2232",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30457": {
+        "tag": "PHYS 477",
+        "name": "Optics Lab",
+        "section": "02L",
+        "desc": "A study of geometrical and physical optics. Topics in geometrical optics include phenomena of reflection, refraction, total internal reflection and their application to imaging systems consisting of lenses and mirrors. Physical optics will start from the electromagnetic wave nature of light and will focus on such wave-like phenomena as optical interference, diffraction, polarization, and dispersion of light. Limited topics in interaction of light with matter, crystal optics, optical properties of materials and their applications in such areas as optoelectronics, photonics and fiber optics will also be addressed. The lab investigates optical component analysis, ray tracing, interferometry, diffraction, polarization, interference, optical fibers and other special topics.",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Non Degree-Graduate",
+            "Undergraduate"
+        ],
+        "credits": "0.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "R",
+            "where": "Academic Building 2416",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lab",
+            "instructors": "TBA"
+        }
+    },
+    "30508": {
+        "tag": "SSCI 291",
+        "name": "The Sociological Imagination",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "8:00 am - 10:05 am",
+            "days": "MR",
+            "where": "Academic Building 4101",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    },
+    "30510": {
+        "tag": "SOC 333",
+        "name": "Global Social Movements",
+        "section": "01",
+        "desc": "",
+        "term": "Summer 2025",
+        "reg_dates": "Feb 24, 2025 to Jul 18, 2025",
+        "levels": [
+            "Non Degree-Undergraduate",
+            "Undergraduate"
+        ],
+        "credits": "4.000",
+        "meeting_times": {
+            "type": "Class",
+            "time": "10:15 am - 12:20 pm",
+            "days": "MR",
+            "where": "Academic Building 4101",
+            "date_range": "Jul 14, 2025 - Sep 27, 2025",
+            "schedule_type": "Lecture",
+            "instructors": "TBA"
+        }
+    }
+}
