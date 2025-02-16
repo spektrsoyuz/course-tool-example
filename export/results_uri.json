@@ -1,0 +1,1847 @@
+{
+    "ACC199": {
+        "cid": "ACC199",
+        "name": "Financial Accounting for Nonbusiness Majors",
+        "desc": "(3 crs.) Basic concepts used in financial accounting for business organizations. (Online) Pre: Open to non-business majors with more than 24 credits or permission of dean's office. Not open to College of Business Majors.",
+        "modality": "Online",
+        "creds": "3",
+        "college": "Business",
+        "department": "General Business"
+    },
+    "ACC201": {
+        "cid": "ACC201",
+        "name": "(BUS) Financial Accounting",
+        "desc": "(3 crs.) Basic concepts and systems used in financial accounting for business organizations. (Lec. 3/Online) Open to students with more than 24 credits or permission of dean's office.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC201H": {
+        "cid": "ACC201H",
+        "name": "(BUS) Honors Section of ACC (BUS) 201: Financial Accounting",
+        "desc": "(3 crs.) Honors Section of ACC (BUS) 201: Financial Accounting. (Lec. 3/Online) Pre: Must have a 3.40 overall GPA. Open only to students with more than 24 credits or permission of dean's office.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC202": {
+        "cid": "ACC202",
+        "name": "(BUS) Managerial Accounting",
+        "desc": "(3 crs.) Basic techniques and systems used by management accountants in budgeting, cost accounting, cost analysis, and control. (Lec. 3/Online) Pre: ACC (BUS) 201 or 201H or permission of instructor.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC301": {
+        "cid": "ACC301",
+        "name": "(BUS) Intermediate Accounting I",
+        "desc": "(3 crs.) Theoretical aspects of accounting principles and their application to preparation and analysis of corporate financial statements. Valuation, recognition and disclosure relative to current and long-term assets and revenue recognition. (Lec. 3/Online) Pre: ACC (BUS) 201 or 201H or permission of instructor. May be repeated once.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Business",
+        "department": "General Business"
+    },
+    "ACC302": {
+        "cid": "ACC302",
+        "name": "(BUS) Intermediate Accounting II",
+        "desc": "(3 crs.) Continuation of corporate financial reporting. Topics include stockholder's equity, earnings per share, income taxes, current liabilities, bonds, leases, accounting changes, and statement of cash flows. (Lec. 3/Online) Pre: ACC (BUS) 301 with a grade of C or better or permission of instructor.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Business",
+        "department": "General Business"
+    },
+    "ACC303": {
+        "cid": "ACC303",
+        "name": "(BUS) Cost Accounting",
+        "desc": "(3 crs.) Cost and managerial accounting systems and concepts including cost allocation, actual and standard cost systems, cost and profit planning, and control systems. (Lec. 3). Pre: ACC (BUS) 202 and junior standing in a degree granting college or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Business",
+        "department": "General Business"
+    },
+    "ACC390": {
+        "cid": "ACC390",
+        "name": "(BUS) Junior Career Passport Program",
+        "desc": "(1 cr.) Exploration of career options. Develop personal and professional goals, and personal job searching tools. (Online) Pre: Business majors with Sophomore standing.",
+        "modality": "Online",
+        "creds": "1",
+        "college": "Business",
+        "department": "General Business"
+    },
+    "ACC401": {
+        "cid": "ACC401",
+        "name": "(BUS) Accounting Computer Systems",
+        "desc": "(3 crs.) Accounting information systems and use of the computer for decision making; emphasis on sources of information and employment of analytical tools in solving accounting problems. (Lec. 3) Pre: ACC (BUS) 301 or concurrent enrollment in 301, BAI (BUS) 310 or current enrollment in BAI (BUS) 310, and junior standing in a degree granting college or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Business",
+        "department": "General Business"
+    },
+    "ACC402": {
+        "cid": "ACC402",
+        "name": "(BUS) Advanced Accounting",
+        "desc": "(3 crs.) Consolidation accounting, international accounting issues, and other accounting issues facing multinational, multi-divisional and other complex organizations. (Lec. 3) Pre: ACC (BUS) 302 or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC402H": {
+        "cid": "ACC402H",
+        "name": "(BUS) Honors Section of BUS 402: Advanced Accounting",
+        "desc": "(3 crs.) Honors Section of ACC (BUS) 402: Advanced Accounting. Consolidation accounting, international accounting issues, and other accounting issues facing multinational, multi-divisional and other complex organizations. (Lec. 3) Pre: ACC (BUS) 302 or permission of instructor. Must have a 3.40 overall GPA.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC403": {
+        "cid": "ACC403",
+        "name": "(BUS) Federal Tax Accounting",
+        "desc": "(3 crs.) Federal laws, regulations, and other authorities affecting taxation of individuals. (Lec. 3) Pre: ACC (BUS) 302 or concurrent enrollment in 302, and junior sanding in a degree granting college, or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Business",
+        "department": "General Business"
+    },
+    "ACC404": {
+        "cid": "ACC404",
+        "name": "(BUS) Auditing",
+        "desc": "(3 crs.) Auditing standards, procedures, programs, working papers, and internal control. (Lec. 3)  Pre: ACC (BUS) 302 or concurrent enrollment in 302, or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC491": {
+        "cid": "ACC491",
+        "name": "(BUS) Directed Study",
+        "desc": "(1-3 crs.) Independent study supervised by college faculty. Seminar meetings concerned with specific business topics. (Independent Study) Pre: must be a student in the College of Business with more than 75 credits and permission of instructor. Not for graduate credit.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC492": {
+        "cid": "ACC492",
+        "name": "(BUS) Directed Study",
+        "desc": "(1-3 crs.) Independent study supervised by college faculty. Seminar meetings concerned with specific business topics. (Independent Study) Pre: must be a student in the College of Business with more than 75 credits and permission of instructor. Not for graduate credit.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC493": {
+        "cid": "ACC493",
+        "name": "(BUS) Internship In Accounting",
+        "desc": "(3 or 6 crs.) Approved, supervised work experience with participation in management and problem solving related to the student's major field. College of Business internships for 3 credits require approximately 120 hours of field experience and 20 hours of class work. Internships for 6 credits require approximately double this amount of work. May be offered online. (Practicum/Online) Pre: Admission into an internship program and permission of instructor. Limited to 6 credits. Not for graduate credit. S/U only.",
+        "modality": "Face to FaceOnline",
+        "creds": "3 - 6",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC691": {
+        "cid": "ACC691",
+        "name": "(BUS) Directed Study in Business",
+        "desc": "(3 crs.) Advanced doctoral level work under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC692": {
+        "cid": "ACC692",
+        "name": "(BUS) Directed Study in Business",
+        "desc": "(3 crs.) Advanced doctoral level work under the supervision of a faculty member arranged to suit the individual requirements of the student. (Independent Study) Pre: permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Business",
+        "department": ""
+    },
+    "ACC699": {
+        "cid": "ACC699",
+        "name": "(BUS) Doctoral Dissertation Research",
+        "desc": "(1-12 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) Pre: enrollment in Phase III of the Ph.D. program in business administration. S/U credit. May be repeated.",
+        "modality": "Face to Face",
+        "creds": "1 - 12",
+        "college": "Business",
+        "department": ""
+    },
+    "AAF150": {
+        "cid": "AAF150",
+        "name": "Introduction to Afro-American History",
+        "desc": "(3 crs.) Cross-listed as (HIS), AAF 150. Survey of Afro-American history from African origins to the current racial confrontation. (Lec. 3/Recitation) (A3) (C3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF150H": {
+        "cid": "AAF150H",
+        "name": "Honors Section of HIS/AAF 150: Intro Afro-American History",
+        "desc": "(3 crs.) Honors Section of HIS/AAF 150: Introduction to Afro-American History.  Cross-listed as (HIS), AAF 150. Survey of Afro-American history from African origins to the current racial confrontation. (Lec. 3) Pre: 3.40 overall GPA or better.  (A3) (C3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF201": {
+        "cid": "AAF201",
+        "name": "Introduction to African-American Studies",
+        "desc": "(3 crs.) Interdisciplinary exploration of some of the pivotal themes and issues in the study of peoples of African descent. (Lec. 3) (A3) (C3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF202": {
+        "cid": "AAF202",
+        "name": "Introduction to Afro-American Culture",
+        "desc": "(3 crs.)  Interdisciplinary survey of the social origins of Afro-American culture.  (Lec. 3/Online)",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF206": {
+        "cid": "AAF206",
+        "name": "Free Women of Color in the Atlantic World",
+        "desc": "(3 crs.) Free African descended women\u2019s experiences living in societies with slaves and slave societies of the Atlantic World. (Lec. 3) Pre: AAF 150, or sophomore standing, or by permission of the instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF208": {
+        "cid": "AAF208",
+        "name": "History of Hip-Hop in Black American Culture",
+        "desc": "(3 crs.) Cross-listed as (MUS), AAF 208. Explores hip-hop culture, surveying its historical development, political significance, social influence, and technological innovations. (Lec. 3) (A4) (C1)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF230": {
+        "cid": "AAF230",
+        "name": "Black Lives Matter Movement",
+        "desc": "(3 crs.) Develop understanding of how and why the Black Lives Matter Movement came into existence, comparing it to the Civil Rights Movement. Defines African American culture today. (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF235": {
+        "cid": "AAF235",
+        "name": "Talent Development at URI: History, Legacy, Impact",
+        "desc": "(3 crs.) This course addresses the Talent Development program at URI and the national and local politics that made it possible. Students will also learn about similar programs in the country. (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF239": {
+        "cid": "AAF239",
+        "name": "Leadership in the African Diaspora",
+        "desc": "(3 crs.) Critically poses the question: How has leadership informed the African Diaspora and shaped the dynamics of culture with the African Diaspora? (Lec. 3) (A2)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF240": {
+        "cid": "AAF240",
+        "name": "Race and Ethnicity",
+        "desc": "(3 crs.) Cross-listed as (SOC), AAF 240. Relations among the various ethnic, religious, racial, and political minorities and majorities, with special reference to the United States. (Lec. 3) (C3) (A2)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF247": {
+        "cid": "AAF247",
+        "name": "Introduction to Literature of the African Diaspora",
+        "desc": "(4 crs.) Cross-listed as (ENG), AAF 247. Major themes, genres, and motifs of the literatures of Africa and the Americas. Focus on one or more of these regions. Study of black oral and written literatures with emphasis on cultural, historical, political, and socioeconomic contexts.  (Lec. 3, Project 3) (A3) (C3)",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF248": {
+        "cid": "AAF248",
+        "name": "African-American Literature from 1900 to the Present",
+        "desc": "(4 crs.) Cross-listed as (ENG), AAF 248. Twentieth-century African-American literature, with emphasis on major issues, movements, and trends, including the study of W.E.B. DuBois, the Harlem Renaissance, the civil rights movement, and the black arts movement. (Lec. 3, Project 3) (A3) (C3)",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF300": {
+        "cid": "AAF300",
+        "name": "Special Topics in African and Afro-American Studies",
+        "desc": "(3 crs.) Selected contemporary topics from the field of African and Afro-American studies. The topical format allows in-depth analysis of some significant aspect of the African and Afro-American experience. Some topics may be offered online. May be repeated with different topic. (Lec. 3/Online) Pre: Completion of AAF 201 or AAF 202, or sophomore standing.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF309": {
+        "cid": "AAF309",
+        "name": "Hip Hop, Gender and Sexuality",
+        "desc": "(3 crs.) Cross-listed as (AAF) MUS309, GWS309. Presents students with a variety of issues pertaining to gender and sexuality in aspects of hip-hop music and culture. (Lec. 3) Pre: Sophomore standing, AAF208/MUS208 (C or better), and permission of instructor are required",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF336": {
+        "cid": "AAF336",
+        "name": "Social Inequality",
+        "desc": "(3 crs.) Cross-listed as (SOC), AAF 336. Dimensions and dynamics of inequality in society; concepts of class, status, race, ethnicity and gender; foundational theories of inequality; intersecting systems of inequality, including race, class, gender, citizenship and sexuality. (Lec. 3) Pre: one 100- or 200-level sociology course.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF352": {
+        "cid": "AAF352",
+        "name": "Black Images in Film",
+        "desc": "(4 crs.) Cross-listed as (AAF), ENG 352. Exploration of the cultural, economic, political, and ideological motivations behind the standard representation of people of the African diaspora in cinema in the U.S. and other areas of the world, while examining film as a genre with a vocabulary and idiom of its own. (Lec. 3, Project 1) (A3) (C3)",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF353": {
+        "cid": "AAF353",
+        "name": "Indigenous and African Slavery in the Northeast",
+        "desc": "(3 crs.) History of the enslavement and bondage of Indigenous and African descended people in New England and Mid-Atlantic states from its origins in the 1640s until the 1840s. (Lec. 3) Pre: AAF 150, or sophomore standing, or by permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF355": {
+        "cid": "AAF355",
+        "name": "Black Women in the U.S.: Colonial Times to the Present",
+        "desc": "(3 crs.) Cross-listed as (HIS), AAF 355. Women's experiences in the study of African-American history. Assigned readings familiarize students with the state of scholarship and examine the intersection of race, class, and gender in that experience. (Lec. 3) Pre: sophomore standing. (A3) (C3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF359": {
+        "cid": "AAF359",
+        "name": "History of Slavery in America",
+        "desc": "(3 crs.) Cross-listed as (HIS), AAF 359. Origins, development, and demise of slavery, with emphasis on the area that currently constitutes the United States. (Lec. 3) Pre: sophomore standing or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF361": {
+        "cid": "AAF361",
+        "name": "Afrofuturism and Black Futures",
+        "desc": "(3 crs.) What is the future of the African diaspora and what will Blackness be like in the future? Special emphasis on speculative imaginaries, technology, liberation, community, alternative epistemologies, and reparation. (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF362": {
+        "cid": "AAF362",
+        "name": "African-American Literary Genres",
+        "desc": "(4 crs.) Cross-listed as (ENG), AAF 362. Study of drama and poetry in the continued oral and written heritage of Africa and America, excepting short story and the novel. Focus on Baraka, Bullins, Dunbar, Giovanni, Hughes, and Walker. (Lec. 3, Project 3)",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF364": {
+        "cid": "AAF364",
+        "name": "Contemporary African Literature",
+        "desc": "(4 crs.) Cross-listed as (ENG), AAF 364. Study of contemporary African literature by genre, region, or theme, with emphasis on literary traditions, issues, and socio-cultural contexts. (Lec. 3, Project 3)",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF366": {
+        "cid": "AAF366",
+        "name": "Twentieth-Century Black Politics and Protest",
+        "desc": "(3 crs.) Cross-listed as (HIS), AAF 366. Explores the development and evolution of black politics and protest in the twentieth century including the Civil Rights and Black Power Movements and their legacies. (Lec. 3) Pre: HIS 150 or AAF 150 or HIS 142 and sophomore standing or permission of instructor. (C3) (B1)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF372": {
+        "cid": "AAF372",
+        "name": "African-Americans and the Legal System",
+        "desc": "(3 crs.)  Focus on constitutional changes designed to influence the political status of African-Americans in the United States.  (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF380": {
+        "cid": "AAF380",
+        "name": "Civil Rights Movement",
+        "desc": "(3 crs.) Cross-listed as (AAF), PSC 380.  Major transformations in American life brought about by the civil rights movement in law, in social relations, in the role of government. Focus on the period between 1954 and 1968 in an effort to identify and evaluate the changes in government and civil society that occurred during this period. (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF388": {
+        "cid": "AAF388",
+        "name": "History of Sub-Saharan Africa",
+        "desc": "(3 crs.) Cross-listed as (HIS), AAF 388. Ancient and medieval Africa, and the impact of Islam; the 'Glorious Age' of the Sudanic empires; the slave trade and the age of exploration; the period of European partition and the rise of African nationalism. (Lec. 3) Pre: sophomore standing or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF390": {
+        "cid": "AAF390",
+        "name": "Directed Study or Research",
+        "desc": "(3 crs.) Directed study arranged to meet the needs of individual students who desire independent work and to promote collective research efforts in African and Afro-American Studies. (Independent Study) Pre: permission of director.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF399": {
+        "cid": "AAF399",
+        "name": "Introduction to Multicultural Psychology",
+        "desc": "(3 crs.) Cross-listed as (PSY), AAF 399.  Introductory course focusing on multiculturalism as a major paradigm.  Emphasizes the meaning of multiculturalism and associated principles, concepts, and sociocultural factors as related to assessment, intervention, and research. (Lec. 3/Online) Pre: PSY 113 or 103.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF408": {
+        "cid": "AAF408",
+        "name": "African Governments and Politics",
+        "desc": "(4 crs.) Cross-listed as (PSC), AAF 408. Political developments in the nations of Africa. Main stress is thematic: challenges to democracy, ethnicity, and identity politics, African political thought, civil conflict, resources, and common developmental problems. (Lec. 4, Practicum) Pre: PSC 113 or 210, and PSC 116 or 211.",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF408H": {
+        "cid": "AAF408H",
+        "name": "Honors Section of PSC/AAF 408 - African Governments and Politics",
+        "desc": "(4 crs.) Cross-listed as (PSC), AAF 408. Honors Section of PSC/AAF 408 - African Government and Politics. (Lec. 4, Practicum) Pre: PSC 113 or 210, and PSC 116 or 211, and 3.40 or better overall GPA.",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF410": {
+        "cid": "AAF410",
+        "name": "Issues in African Development",
+        "desc": "(3 crs.) Cross-listed as (AAF), PSC 410. A seminar focusing on the dynamics of African development, including political and social change, economic development, education, urbanization, rural development, environmental management, labor and business, industrialization, and technology transfer. (Seminar) Pre: APG 313 or PSC 201 or HIS 388 or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF415": {
+        "cid": "AAF415",
+        "name": "Dynamics of Social Change in the Caribbean",
+        "desc": "(3 crs.) Cross-listed as (AAF), PSC, ECN 415. Exploration of the slave trade and the origins of Africans and people of African descent in the Caribbean. Emphasis on political and economic relations with the U.S. and the impact of modernization. (Lec. 3) Not for graduate credit.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF428": {
+        "cid": "AAF428",
+        "name": "Institutional Racism",
+        "desc": "(3 crs.) Cross-listed as (SOC), AAF 428. Critically examines the origin, nature, and consequences of institutional racism in the US. (Seminar) Pre: one 300-level sociology course or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF466": {
+        "cid": "AAF466",
+        "name": "Urban Problems",
+        "desc": "(3 crs.) Cross-listed as (PSC), AAF 466. Contemporary and emerging problems of urban affairs. Discussion, reading, and assignments on the interaction among urban change, development of social institutions, and formation of public policy. (Lec. 3/Online) Pre: PSC 113 or 210.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF466H": {
+        "cid": "AAF466H",
+        "name": "Honors Section of AAF/PSC 466: Urban Problems",
+        "desc": "(3 crs.) Cross-listed as (PSC), AAF 466H. Honors Section of AAF/PSC 466: Urban Problems. (Lec. 3) Pre: PSC 113 or 210, and 3.40 overall GPA.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF477": {
+        "cid": "AAF477",
+        "name": "Internship in Africana Studies",
+        "desc": "(1-6 crs.) Supervised professional experience with a relevant agency or organization.  Activities and expectations to be determined between site supervisor and intern and approved by a faculty advisor, prior to registration. May be repeated for up to 12 credits. Not for graduate credit. (Practicum) S/U only.",
+        "modality": "Face to Face",
+        "creds": "1 - 6",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF484": {
+        "cid": "AAF484",
+        "name": "Global Equity, Justice, and Social Media",
+        "desc": "(4 crs.) Cross-listed as (PSC) AAF 484. Leverage critical lenses to analyze global inequalities and injustices using critical perspectives. The course will explore how systemic biases affect individuals' opportunities across diverse socio-demographic factors worldwide. (Seminar) (C3) (D1)",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "AAF498": {
+        "cid": "AAF498",
+        "name": "Senior Seminar in African and Afro-American Studies",
+        "desc": "(3 crs.) Study of a particular issue of the experience of Blacks in the diaspora from an interdisciplinary perspective. Subject or theme will change yearly. Pre: AAF 150, 201, 202, senior standing, or permission of instructor. Not for graduate credit.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Africana Studies"
+    },
+    "ASL101": {
+        "cid": "ASL101",
+        "name": "American Sign Language I",
+        "desc": "(3 crs.) For students with little or no previous knowledge of ASL. Acquisition of basic grammar and lexical skills to communicate in routine social or professional situations. (Lec. 3) (B2) (C3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Modern and Classical Languages and Literature"
+    },
+    "ASL102": {
+        "cid": "ASL102",
+        "name": "American Sign Language II",
+        "desc": "(3 crs.) Continuation of American Sign Language I. Builds on the basic grammatical, linguistic, communicative and cultural concepts learned in ASL 101. (Lec. 3) Pre: ASL 101 or equivalent. (B2) (C3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Modern and Classical Languages and Literature"
+    },
+    "AME204": {
+        "cid": "AME204",
+        "name": "Introduction to American Studies",
+        "desc": "(4 crs.) A critical examination of the field of American Studies, with emphasis on interdisciplinary methods. Required for the undergraduate Minor in American Studies. (Lec. 3, Online) (B1) (C3)",
+        "modality": "Blended",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "English"
+    },
+    "AVS101": {
+        "cid": "AVS101",
+        "name": "Introduction to Animal Science",
+        "desc": "(3 crs.) Animal industry's role in world and national economy; inheritance, growth, physiology, nutrition, and diseases of domestic animals and poultry; geographic distribution and marketing of animal products. (Lec. 3/Online) (A1)",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS102": {
+        "cid": "AVS102",
+        "name": "Introduction to Animal Science Laboratory",
+        "desc": "(1 cr.) Laboratory and demonstrations of principles of the animal industries. (Lab. 2) Pre: credit or concurrent enrollment in 101. Restricted to AVS majors.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS110": {
+        "cid": "AVS110",
+        "name": "Freshman Seminar in Animal and Veterinary Science",
+        "desc": "(1 cr.) Overview of the animal and veterinary sciences and the fields they encompass. Student projects, presentations, and field trips. (Seminar) Pre: AVS 101. Open only to freshmen.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS132G": {
+        "cid": "AVS132G",
+        "name": "Sustainable Agriculture, Food Systems, and Society",
+        "desc": "(3 crs.) Cross-listed as (AFS), AVS, PLS 132G. Food is essential to life, and a foundation of civilization. This course will explore agriculture's history, culture, and practices world-wide, and challenge students to develop sustainable agricultural practices. (Lec. 3/Online) (A2) (GC)",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS132GH": {
+        "cid": "AVS132GH",
+        "name": "Honors Section of AFS/AVS/PLS 132: Sustainable Agriculture, Food Systems, and Society",
+        "desc": "(3 crs.) Cross-listed as (AFS), AVS, PLS 132H. Honors Section of AFS/AVS/PLS 132: Sustainable Agriculture, Food Systems, and Society. (Lec. 3/Online) Pre: 3.40 overall GPA. (A2) (GC)",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS201": {
+        "cid": "AVS201",
+        "name": "Companion Animal Management",
+        "desc": "(3 crs.) Nutrition, reproduction, behavior, and management of companion animals. (Lec. 3) Pre: AVS 101.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS212": {
+        "cid": "AVS212",
+        "name": "Feeds and Feedings",
+        "desc": "(3 crs.) Principles and practices of feeding farm animals, nutrient requirements, physiology of digestion, identification and comparative value of feeds, computer calculation of rations for livestock. (Lec. 2, Lab. 2) Pre: AVS 101 and 102.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS250": {
+        "cid": "AVS250",
+        "name": "Livestock Judging and Evaluation",
+        "desc": "(2 crs.) Principles and practical application of livestock selection and evaluation. Emphasis will be placed on the concepts of selection, evaluation of performance data, and visual appraisal of livestock. (Lec. 1, Lab. 1) Pre: AVS 101 and AVS 102.",
+        "modality": "Face to Face",
+        "creds": "2",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS275": {
+        "cid": "AVS275",
+        "name": "Pasture and Grazing Management in Sustainable Agriculture",
+        "desc": "(4 crs.) Cross-listed as (AVS), PLS 275. An introduction to managing livestock and grasslands to promote animal health and increase food and fiber supplies while sustaining land productivity, promoting ecosystem function, and maintaining farm economic viability.  Lec. 3, Lab 2) Pre: AVS 101 and 102 or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS291": {
+        "cid": "AVS291",
+        "name": "Laboratory Research Skills",
+        "desc": "(1 cr.) Cross-listing as (AFS), AVS, BIO 291. Overview of the general operations of a scientific laboratory, commonly used scientific infrastructure, equipment and skills to prepare students for working in professional laboratories. (Lab. 1, Online) Pre: Sophomore standing; permission of instructor. The course is not for lab credit for B.S. Biological Sciences & B.S. Marine Biology.",
+        "modality": "Blended",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AVS301": {
+        "cid": "AVS301",
+        "name": "Seminar in Animal and Veterinary Science",
+        "desc": "(1 cr.) Readings, reports, lectures, and discussions on scientific topics in animal and veterinary science. Subject matter adapted to student and faculty interest. (Seminar) Pre: junior or senior standing.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS304": {
+        "cid": "AVS304",
+        "name": "(104) Advanced Animal Management Techniques",
+        "desc": "(3 crs.) Hands-on course in advanced animal handling and management skills needed to maintain animal health and productivity. Students will use software currently used in the animal industry. Fields trips required. (Lec. 1, Lab. 2) Pre: AVS 101 and AVS 102 and either AVS 323 or AVS 324.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS323": {
+        "cid": "AVS323",
+        "name": "Ruminant Livestock Management",
+        "desc": "(3 crs.) Principles of care and management of domesticated ruminant animals including dairy cattle, beef cattle, sheep, and goats. Emphasis on the production methods of the animal industries. (Lec. 3) Pre: AVS 101.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AVS324": {
+        "cid": "AVS324",
+        "name": "Non-Ruminant Livestock Management",
+        "desc": "(3 crs.) Principles of the care and management of domesticated monogastric animals with emphasis on swine and poultry. Emphasis will be given to modern production methods. (Lec. 3) Pre: AVS 101.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AVS325": {
+        "cid": "AVS325",
+        "name": "Exotic Pet Management",
+        "desc": "(3 crs.) Principles of the care and management of exotic household pets including birds, reptiles, amphibians, and small mammals. Anatomy/physiology, handling, enclosure setup, daily care, nutrition and disease prevention will be covered. (Lec. 3) Pre: AVS 101 or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AVS326": {
+        "cid": "AVS326",
+        "name": "Equine Management",
+        "desc": "(3 crs.) Principles of selection, breeding, feeding, management, behavior, health and welfare of horses. (Lec. 3) Pre: AVS 101",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS327": {
+        "cid": "AVS327",
+        "name": "Zoo Animal Management",
+        "desc": "(3 crs.) Experts discuss zoo animal care and the role of zoos in modern society with an emphasis on education, conservation, and research. Held at Roger Williams Park Zoo; additional costs apply. (Lec. 3) Pre: BIO 101 and 102 and sophomore standing or above.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS331": {
+        "cid": "AVS331",
+        "name": "Anatomy and Physiology",
+        "desc": "(3 crs.) Fundamentals of anatomy and physiology of domesticated animals. (Lec. 3) Pre: BIO 101 or 110, or CHM 101 or CHM 103.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS332": {
+        "cid": "AVS332",
+        "name": "Animal Diseases",
+        "desc": "(3 crs.) Specific diseases of avian and mammalian species; etiology, symptoms, and control. (Lec. 3) Pre: AVS 331.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS333": {
+        "cid": "AVS333",
+        "name": "Anatomy and Physiology Laboratory",
+        "desc": "(1 cr.) The fundamental anatomy of domestic animals is examined. Demonstrations of physiological principles are performed. Laboratory techniques for screening physiological function in vivo and in vitro are covered. (Lab. 2) Pre: credit or concurrent enrollment in 331.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS343": {
+        "cid": "AVS343",
+        "name": "Behavior of Managed Animals",
+        "desc": "(3 crs.) Explores approaches for objectively assessing and interpreting the function and causes of animal behavior to improve animal care and management. (Online) Pre: AVS 331.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AVS372": {
+        "cid": "AVS372",
+        "name": "Introductory Endocrinology",
+        "desc": "(3 crs.) Cross-listed (AVS), BIO 372. Morphology and physiology of endocrine glands. Roles of hormones in regulation of body processes. Discussion of all endocrine organs and relationship of endocrine and nervous systems. (Lec. 3) Pre: BIO 101 or BIO 110, sophomore standing, or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AVS390": {
+        "cid": "AVS390",
+        "name": "Wildlife and Human Disease",
+        "desc": "(3 crs.) Cross-listed as (AVS), ENT 390. Introduction to the study of human diseases carried by wildlife (zoonoses), including surveillance, epidemiology, transmission, public health impact, and prevention. Interdisciplinary approach with emphasis on problem solving using real-life examples.  (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS390H": {
+        "cid": "AVS390H",
+        "name": "Honors Section of ENT/AVS 390:Wildlife&Hum Disease",
+        "desc": "(3 crs.) Honors Section of ENT/AVS 390: Wildlife and Human Disease. Cross-listed as (AVS), ENT 390. Introduction to the study of human diseases carried by wildlife (zoonoses), including surveillance, epidemiology, transmission, public health impact, and prevention. Interdisciplinary approach with emphasis on problem solving using real-life examples. (Lec. 3) Pre: Overall GPA of 3.4 or higher.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS398": {
+        "cid": "AVS398",
+        "name": "Practicum in Zoo and Aquarium Animal Science",
+        "desc": "(1 cr.) Complement and enrich a zoo or aquarium internship experience through discussions, evaluations of progress, and completion of a capstone project that connects prior academic experience to a concurrent internship. (Practicum) Pre: AVS 327  and credit or concurrent enrollment in AVS 399. Permission of instructor. S/U only.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS399": {
+        "cid": "AVS399",
+        "name": "Animal Science Internship",
+        "desc": "(1-6 crs.) Options in various professional experience programs involving the animal and veterinary sciences. (Practicum) Pre: permission of instructor. May be repeated for a maximum of 6 credits.  S/U credit.",
+        "modality": "Face to Face",
+        "creds": "1 - 6",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS404": {
+        "cid": "AVS404",
+        "name": "Food Systems, Sustainability and Health",
+        "desc": "(3 crs.) Cross-listed as (AVS), NFS, SAF 404. Scientific analysis of animal and human health and nutrition in various food systems. Interdisciplinary discussion on food systems and sustainability. (Lec. 3) Pre: Senior in good standing or permission of instructor. Not for graduate credit. (D1) (B4)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AVS412": {
+        "cid": "AVS412",
+        "name": "Animal Nutrition",
+        "desc": "(3 crs.) Principles of animal nutrition, metabolism of carbohydrates, proteins, and fats; mineral and vitamin requirements; nutritive requirements for maintenance, growth, reproduction, lactation, and work. (Lec. 3) Pre: junior standing or above.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS420": {
+        "cid": "AVS420",
+        "name": "Animal Breeding and Genetics",
+        "desc": "(3 crs.) Scientific methods for the genetic improvement of domesticated animals. Genetic variation and expected results of different types of selection and mating systems. (Lec. 3) Pre: junior standing or above. In alternate years.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS427": {
+        "cid": "AVS427",
+        "name": "Zoo and Aquarium Animal Welfare",
+        "desc": "(2 crs.) Application of physiological and behavioral measures to assess zoo and aquarium animal welfare, with an emphasis on both currently applied and emerging science-based approaches. (Lec. 2) Pre: AVS 327, AVS 343. Not for graduate credit.",
+        "modality": "Face to Face",
+        "creds": "2",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS440": {
+        "cid": "AVS440",
+        "name": "Seminar on Marine Mammals",
+        "desc": "(3 crs.) Leading scientists discuss the natural history, anatomy, physiology, husbandry, behavior and conservation of marine mammals. Current research is emphasized.  (Lec. 3) Pre: junior standing, and BIO 101 or 110, and 102 and permission of the instructor.  Not for graduate credit. Special registration and fee are required. Contact Mystic Aquarium, Mystic, CT.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS442": {
+        "cid": "AVS442",
+        "name": "Physiology and Behavior of Marine Mammals",
+        "desc": "(3 crs.) An exploration of how marine mammals exploit aquatic environments, combining examination of research literature with experiential learning in lab and aquarium facilities locally and abroad. Travel required; additional costs apply.  (Lec. 1, Lab. 2) Pre: Sophomore standing or above and a major in any department in CELS and permission of instructor. Not for graduate credit.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS443": {
+        "cid": "AVS443",
+        "name": "Advanced Methods in Applied Animal Behavior",
+        "desc": "(3 crs.) Practical application of the study of animal behavior to improve animal management in farm, zoo, or research settings. Emphasis on research methods and science-based animal training techniques. (Lec. 3) Pre: AVS 343 or concurrent enrollment in AVS 343. Not for graduate credit. (D1)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AVS462": {
+        "cid": "AVS462",
+        "name": "Laboratory Animal Techniques",
+        "desc": "(4 crs.) Management of laboratory animals with emphasis on animal biology, breeding, care, health, research use, and animal welfare. Laboratory animal applications in clinical studies and other selected topics. (Lec.3, Lab. 2) Pre:  AVS 331 and 333.",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS463": {
+        "cid": "AVS463",
+        "name": "Animal Veterinary Technology",
+        "desc": "(3 crs.) Theory and application of animal health practices required of paraprofessionals in a veterinary practice. The role of the veterinary assistant in a modern clinical practice will be emphasized. (Lec. 2, Lab. 3) Pre: AVS 331.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS472": {
+        "cid": "AVS472",
+        "name": "Physiology of Reproduction",
+        "desc": "(3 crs.) Anatomy and physiology of reproduction, with emphasis on domestic animals. (Lec. 3) Pre: BIO 101 or 110, and AVS 331 or permission of instructor. (D1)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AVS473": {
+        "cid": "AVS473",
+        "name": "Physiology of Reproduction Laboratory",
+        "desc": "(1 cr.) Laboratory exercises in mammalian reproductive physiology encompassing whole animal applications and gamete techniques.  Current assisted reproductive technologies and management schemes will be discussed.  (Lab. 2) Pre: concurrent enrollment in AVS 472.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS491": {
+        "cid": "AVS491",
+        "name": "Special Projects",
+        "desc": "(1-3 crs.) Work that meets the individual needs of students in animal and veterinary science. (Independent Study) S/U grades only.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS492": {
+        "cid": "AVS492",
+        "name": "Special Projects",
+        "desc": "(1-3 crs.) Work that meets the individual needs of students in animal and veterinary science. (Independent Study) S/U grades only.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS500": {
+        "cid": "AVS500",
+        "name": "Instructional Methods in Life Sciences",
+        "desc": "(2 crs.) Organization and development of instructional material and teaching methods for graduate teaching assistants in the life sciences. Emphasis on practice presentation in classroom/lab setting. (Lec. 2) Pre: graduate standing or permission of instructor for senior undergraduate.",
+        "modality": "Face to Face",
+        "creds": "2",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS503": {
+        "cid": "AVS503",
+        "name": "Pathobiology",
+        "desc": "(3 crs.) Cross-listed as (AFS), AVS 503. Mechanisms and causes of disease in homeothermic and poikilothermic vertebrates. Cell death, inflammation, infection, metabolic disorders, and neoplasis in relation to fish, reptiles, birds, and mammals. Effects of disease at the cellular, tissue, organ, and organismal levels with a medical orientation. (Lec. 3) Pre: BIO 201 or AVS 331.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS504": {
+        "cid": "AVS504",
+        "name": "Food Systems, Sustainability, and Health",
+        "desc": "(3 crs.) Cross-listed as (NFS), AVS 504. Scientific analysis of animal and human health and nutrition in various food systems.  Interdisciplinary discussion on food systems and sustainability.  (Lec. 3) Pre: graduate student in good standing or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS508": {
+        "cid": "AVS508",
+        "name": "Seminar in Biological Literature",
+        "desc": "(1 cr.) Cross-listed as (BIO), CMB, AFS, AVS, PLS, NRS, LIB 508. Survey of biological literature including traditional methods of bibliographic control, contemporary information retrieval services, and the development of a personalized information system. (Sem. 1) Pre: graduate standing or permission of the instructor.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS538": {
+        "cid": "AVS538",
+        "name": "Epidemiology of Infectious Diseases",
+        "desc": "(3 crs.) Cross-listed as (CMB), AVS 538. Principles of epidemiology, interrelationships of host, environment, and agent in infectious diseases. (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS591": {
+        "cid": "AVS591",
+        "name": "Research Problems",
+        "desc": "(3 crs.) Research problems to meet individual needs of graduate and honors students in the fields of animal breeding, nutrition, or physiology and food science. (Independent Study) Pre: permission of chairperson.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS592": {
+        "cid": "AVS592",
+        "name": "Research Problems",
+        "desc": "(3 crs.) Research problems to meet individual needs of graduate and honors students in the fields of animal breeding, nutrition, or physiology and food science. (Independent Study) Pre: permission of chairperson.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AVS599": {
+        "cid": "AVS599",
+        "name": "Master's Thesis Research",
+        "desc": "(1-6 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit.",
+        "modality": "Face to Face",
+        "creds": "1 - 6",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "APG200": {
+        "cid": "APG200",
+        "name": "Language and Culture",
+        "desc": "(3 crs.) Cross-listed as (APG), LIN 200. Introduction to anthropological approaches to the study of language. Focuses on cross-cultural language diversity, taking into account how geography, history, colonization, gender, racial, ethnic identities shape linguistic and cultural practices. (Lec. 3) (A2) (C3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG201": {
+        "cid": "APG201",
+        "name": "Human Origins and Evolution",
+        "desc": "(3 crs.) The biocultural evolution of humans. An investigation into humankind's place in nature, including a review of the living primates, human genetics and development, evolutionary theory, and the human fossil record. (Lec. 3/Online) (A1) (C3)",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG202": {
+        "cid": "APG202",
+        "name": "Introduction to Archaeology",
+        "desc": "(3 crs.) Archaeological perspectives on the major developments in humanity's past, from the evolution of the earliest humans to the emergence of agriculture and the earliest urban civilizations.  (Lec. 3) (A2) (C2)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG203": {
+        "cid": "APG203",
+        "name": "Cultural Anthropology",
+        "desc": "(3 crs.) Anthropological approaches to the study of peoples and cultures around the world. (Lec. 3) (A2)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG282G": {
+        "cid": "APG282G",
+        "name": "Sapiens: The Changing Nature of Human Evolution",
+        "desc": "(3 crs.) Cross-listed with (BIO), APG 282G. Study of human origins and history in order to understand Homo sapiens as a significant cause of evolutionary change, including an in-depth description of our widespread influence on Earth's systems. (Lec. 3) Pre: Sophomore or higher standing. (A1) (C2) (GC)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG302": {
+        "cid": "APG302",
+        "name": "Methods of Anthropological Inquiry",
+        "desc": "(3 crs.) Logic, techniques, and problems in obtaining true information in anthropological inquiry. Problems from anthropological field work and use of cross-cultural data. (Lec. 3) Pre: APG 203 or permission of instructor. Restricted to juniors and seniors.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG303": {
+        "cid": "APG303",
+        "name": "Archaeology of the Americas",
+        "desc": "(3 crs.) Archaeology of the Americas before and during the period of European contact, including evidence for the earliest human occupation, social complexity, and human impacts on the environment. (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG304": {
+        "cid": "APG304",
+        "name": "Coastal Archaeology",
+        "desc": "(3 crs.) Exploration of issues and controversies in coastal archaeology, including human adaptation through time, oceanic colonization, the preservation and study of coastal sites, and relevance to current environmental and social issues. (Lec. 3) Pre: APG 202 or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG308": {
+        "cid": "APG308",
+        "name": "Sustainable Agriculture and Food Cultures",
+        "desc": "(3 crs.) Cross-listed as (APG), SOC, GWS 308. Comparative study of sustainable food systems and cultures focusing on the sociocultural dynamics of production, distribution, and consumption. Areas include comparative food systems, indigenous food cultures, gender and food, food equity, and food movements. (Lec. 3) Pre: sophomore standing.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG308H": {
+        "cid": "APG308H",
+        "name": "Honors Section of APG/SOC/GWS 308: Sustainable Agriculture and Food Cultures",
+        "desc": "(3 crs.) Honors Section of APG/SOC/GWS 308: Sustainable Agriculture and Food Cultures. (Lec. 3) Pre: 3.40 overall gpa and sophomore standing.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG310": {
+        "cid": "APG310",
+        "name": "Topics in Anthropology",
+        "desc": "(3 crs.) Analytical study of selected topics in anthropology. Subjects will vary according to the expertise and availability of instructors. (Lec. 3) Pre: one anthropology course or permission of instructor. May be repeated with different topic.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG310H": {
+        "cid": "APG310H",
+        "name": "Honors Section of APG 310: Topics in Anthropology",
+        "desc": "(3 crs.) Honors section of APG 310: Topics in Anthropology. (Lec. 3) Pre: 3.40 overall gpa and one anthropology course, or permission of instructor. May be repeated with different topic.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG311": {
+        "cid": "APG311",
+        "name": "Native North Americans",
+        "desc": "(3 crs.) Survey of selected North American Indian groups from before European contact to the present. Modern reservation life; influence of the federal government on Indian life. (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG316": {
+        "cid": "APG316",
+        "name": "U.S. Latinas/Latinos/Latinxs: Anthropological Approaches",
+        "desc": "(3 crs.) Introduction to Latinas/Latinos/Latinxs in U.S. culture, history, politics, and everyday life. Course examines how a heterogeneous and changing Latino/a/x population shapes, and is shaped by life in the United States. (Lec. 3) Pre: sophomore standing.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG319": {
+        "cid": "APG319",
+        "name": "Cultural Behavior and Environment",
+        "desc": "(3 crs.) Cultural adaptations made by traditional and industrial societies to natural and human environments using examples from prehistory and ethnography. (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG320": {
+        "cid": "APG320",
+        "name": "Sociolinguistics",
+        "desc": "(3 crs.) Cross-listed as (LIN), APG 320. Presentation of the major areas of micro- and macro-sociolinguistics: speech acts, registers, repertoires, language attitudes, social correlates of phonological and syntactic features and changes. (Lec. 3) Pre: APG/LIN 200 or 220.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG325G": {
+        "cid": "APG325G",
+        "name": "American Dilemma: Who \"Owns\" Native America?",
+        "desc": "(3 crs.) Examines researchers\u2019 perceived rights to ownership of Native American bodies, languages, and human remains.  Ultimately, we seek to answer the question: Who \u201cowns\u201d Native America? (Lec. 3) (A2) (C3) (GC)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG328": {
+        "cid": "APG328",
+        "name": "Gender and Culture",
+        "desc": "(3 crs.) Analytical study of gender in a cross-cultural context, discussion of the possible origins of gender and subsistence modes, and an examination of societies with flexible or unusual gender systems. (Lec. 3) Pre: one APG course or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG329": {
+        "cid": "APG329",
+        "name": "Contemporary Mexican Society",
+        "desc": "(3 crs.) Cross-listed as (SOC), APG 329. Examines the social, political, economic, and cultural dimensions of contemporary Mexico. Demographic composition, economic and political development, civil society and women's political participation, indigenous issues and rights, U.S.-Mexico relations and bilateral issues, and human rights. (Lec. 3) Pre: SOC course at the 200-level or APG 203.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG345": {
+        "cid": "APG345",
+        "name": "Introduction to Medical Anthropology",
+        "desc": "(3 crs.) Overview of the perspectives, theories, and methods used by contemporary medical anthropologists. Cross cultural approach to human health and disease with emphasis on biological, ecological, political, economic, and cultural factors. (Online)",
+        "modality": "Online",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG370": {
+        "cid": "APG370",
+        "name": "Decolonial Ecologies",
+        "desc": "(3 crs.) Examines Afro-descendant and Indigenous lives, cultural ecology, local ecological knowledge, environmental justice, and initiatives and organizing efforts to resist on-going threats to coastal livelihoods throughout the Americas. (Seminar) Pre: Sophomore standing and APG 200 or APG 203; or permission of instructor",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG377": {
+        "cid": "APG377",
+        "name": "Undergraduate Teaching Experience in Anthropology/Sociology",
+        "desc": "(1-3 crs.) Cross-listed as (APG), SOC 377. Introduces students to various aspects of college level teaching while working under the supervision of course instructors and/or faculty members in Anthropology or Sociology. (Practicum 1-3) Pre: Permission of instructor. Not for major credit. S/U only.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG392G": {
+        "cid": "APG392G",
+        "name": "The URI Campus: A Walk Through Time",
+        "desc": "(3 cr.) Cross-listed as (HIS), APG 392G. This course explores the complexities of the land upon which URI sits. The University of Rhode Island (URI) was founded in 1892, but the history of the land and this space is much older and intertwined with the history of the Narragansett People. This course highlights some of this history. (Lec. 3) (A3) (C3) (GC)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG396": {
+        "cid": "APG396",
+        "name": "Archaeology Field School",
+        "desc": "(3-6 crs.) Cross-list as (HIS) APG 396. Archaeology field experience, usually provided through a terrestrial or underwater field school. (Lec. 3-6, Lab.) Pre: permission of instructor. May be repeated for a maximum of 6 credits.",
+        "modality": "Face to Face",
+        "creds": "3 - 6",
+        "college": "Arts and Sciences",
+        "department": "History"
+    },
+    "APG399": {
+        "cid": "APG399",
+        "name": "Sex and Reproduction in Our Species",
+        "desc": "(3 crs.) An investigation of the biological, behavioral, and cultural components of human reproduction, including mating and parenting behaviors, as well as making, growing, and raising offspring, all in an evolutionary context. (Lec. 3) Pre: APG 201, or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG401": {
+        "cid": "APG401",
+        "name": "Anthropological Theory and Practice",
+        "desc": "(3 crs.) Overview of historical and contemporary anthropological theory; read major theoretical works by anthropologists to examine how they inform cultural theory, help us formulate cultural analysis and understandings of sociocultural life. (Seminar) Pre: APG 200 or 203, and junior standing; or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG411": {
+        "cid": "APG411",
+        "name": "(300) Paleoanthropology",
+        "desc": "(3 crs.) Investigation into the biocultural evolution of hominins, beginning with hominoids 23 million years ago; course based on evidence from fossil bones and teeth, artifacts, and paleoecological reconstruction. (Lec. 3) Pre: APG 201 and 202, or permission of instructor. Not for graduate credit.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG412": {
+        "cid": "APG412",
+        "name": "Primatology",
+        "desc": "(6 crs.) Investigation of the behavior of wild and captive prosimians, monkeys, and apes, and anthropological application of primate data for conservation and reconstructing human origins. (Lec. 5, Lab.1) Pre: APG 201 or permission of instructor. (A2)",
+        "modality": "Face to Face",
+        "creds": "6",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG413": {
+        "cid": "APG413",
+        "name": "Peoples of the Sea",
+        "desc": "(3 crs.) Cross-listed as (APG), MAF 413. Examination of human sociocultural adaptation to the seas. (Lec. 3) Pre: APG 203 or MAF 100 or graduate status. Open only to juniors, seniors, and graduate students.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG414": {
+        "cid": "APG414",
+        "name": "Culture and Cognition",
+        "desc": "(3 crs.) Explores relationship between human society, human culture and human thought through an examination  of biocultural aspects of human cognition and their implications for the understanding of culture. (Lec. 3) Pre: APG 200 or APG 201 or APG 202 or APG 203. Not for graduate credit.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG415": {
+        "cid": "APG415",
+        "name": "Migration in the Americas",
+        "desc": "(3 crs.) Cross-listed as (APG), SOC 415. Contemporary trends in migration in the Americas with a focus on migratory flows from Latin America to the United States. Migration theories, unauthorized migration, anti-immigration discourses, inter-migration in Latin America, gender dynamics, transnationalism, refugees and the internally displaced, and immigration policies in the Americas. (Lec. 3) Pre: open only to juniors, seniors, and graduate students.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG417": {
+        "cid": "APG417",
+        "name": "Archaeological Method and Theory",
+        "desc": "(3 crs.) Theoretical and methodological approaches in archaeology, with an emphasis on skills and knowledge needed by professionals in the field, including ethical responsibilities. Laboratory demonstrations. (Lec. 3) Pre: APG 202 and junior standing; or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG427": {
+        "cid": "APG427",
+        "name": "Senior Seminar: Unity of Anthropology",
+        "desc": "(4 crs.) Capstone course for anthropology program, with emphasis on all four subfields. Majors will integrate subfields and apply anthropological thinking to contemporary environmental, social, or health issues. Includes career development component. (Seminar, Indp. Study) Pre: APG 200, APG 201, APG 202, APG 203 and senior standing, or permission of instructor. (D1)",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG465": {
+        "cid": "APG465",
+        "name": "Seminar in Cultural Heritage",
+        "desc": "(3 crs.) Cross-listed as (ART), APG 465. Investigates how global development, commercialization, and conflicts affect humankind's cultural heritage. Examines some ethical issues and legal strategies for protecting cultural sites, artifacts, and traditional folkways. (Lec. 3) Pre: at least 3 credits at the 300-level in anthropology, art history, or history; or permission of the instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG470": {
+        "cid": "APG470",
+        "name": "Directed Research in Anthropology",
+        "desc": "(3-6 crs.) Self-guided study and research, seminar, or individual program. (Independent Study) Pre: permission of instructor. May be repeated for credit for a total of 6 credits.",
+        "modality": "Face to Face",
+        "creds": "3 - 6",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG471": {
+        "cid": "APG471",
+        "name": "Critical Island Studies",
+        "desc": "(3 crs.) Cross listed as (MAF), APG 471. A critical approach to island studies with a focus on Caribbean and Pacific small islands and the history of island studies. Topics include tourism, climate change, development, culture, and conservation. (Seminar)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG472": {
+        "cid": "APG472",
+        "name": "Critical Studies of Tourism and Ecotourism",
+        "desc": "(3 crs.) Cross listed as (MAF), APG 472. Analysis of domestic and international case studies emphasizing concepts and critical thinking around issues pertaining to coastal tourism, recreation, ecotourism, the history of tourism, and consumption. (Seminar)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG475G": {
+        "cid": "APG475G",
+        "name": "Global Perspectives on Reproduction",
+        "desc": "(3 crs.) Cross-list with (SOC), APG, GWS 475G. Explores the impact of inequalities of race, class, age, gender and sexuality on global variations in contraception, fertility, childbirth, and parenthood, and the ethical issues and social forces affecting reproduction. (Seminar) Pre: 300-level coursework in sociology, anthropology, gender and women's studies, or health studies; or permission of the instructor. (A2) (C2)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG477": {
+        "cid": "APG477",
+        "name": "Internship",
+        "desc": "(3 crs.) Supervised professional experience with a relevant agency or organization. Activities and expectations to be determined between site supervisor and intern and approved by a faculty advisor, prior to registration. Not for graduate credit. S/U only.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "APG490": {
+        "cid": "APG490",
+        "name": "Underwater Historical Archaeology",
+        "desc": "(3 crs.) Cross-listed as (HIS), APG 490. Methodological and theoretical foundations of underwater historical archaeology.  Examines the contribution of shipwrecks and other inundated sites to our understanding of the global nature of modern life. (Seminar) Pre: at least 3 credits of course work at the 300-level in history, anthropology or art history, or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Sociology and Anthropology"
+    },
+    "AMS393G": {
+        "cid": "AMS393G",
+        "name": "Introduction to Predictive Analytics",
+        "desc": "(3 crs.) Cross-listed as (AMS), DSP 393G. The course implements an active learning pedagogy for students to meticulously and systematically work with 'Big Data' to develop data-driven predictive models for decision-making. (Lec. 3) Pre: Pre: STA 308 or STA 409 or BAI 210; STA 305 or LTI/DSP 110; and MTH 215. (B3) (D1) (GC)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Mathematics"
+    },
+    "AMS450": {
+        "cid": "AMS450",
+        "name": "Introduction to the Mathematical Analysis of Data",
+        "desc": "(3 crs.) Mathematical analysis of Data Science techniques and their implementation in python and R. Monte Carlo methods, Expectation-Maximization (EM) algorithms, Deep Learning, and Functional Analysis with spectral decomposition methods will be covered. (Lec. 3) Pre: MTH 215, MTH 451 and CSC 310 or permission of the instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Mathematics"
+    },
+    "AMS490": {
+        "cid": "AMS490",
+        "name": "Intermediate Topics in Applied Mathematics",
+        "desc": "(1-4 crs.) Topics in applied and computational mathematics. Applications from engineering, biology, finance, data and network science, along with relevant numerical algorithms, will be considered. (Lec. 1-4) Pre: Permission of instructor. May be repeated for a maximum of 12 credits. Not for graduate credit.",
+        "modality": "Face to Face",
+        "creds": "1 - 4",
+        "college": "Arts and Sciences",
+        "department": "Mathematics"
+    },
+    "AMS528": {
+        "cid": "AMS528",
+        "name": "Applied Topology",
+        "desc": "(3 crs.) Fundamental concepts of topology, metric spaces, homotopy equivalence. Simplicial complexes. Homology and cohomology groups. Exact sequences. Duality. Persistent homology, persistent diagrams, and their computation. Applications. (Lec. 3) Pre: MTH 215 and MTH 243 or permission of the instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Mathematics"
+    },
+    "AMS553": {
+        "cid": "AMS553",
+        "name": "Mathematical Methods for Data Science",
+        "desc": "(3 crs.) Cross-listed as (AMS) DSP 553. This course covers a wide range of mathematical tools from Discrete Mathematics, Calculus, Linear Algebra, and Probability Theory that arise in Data Science. Each mathematical construct is accompanied by examples of its use in solving practical problems in Data Science. (Accelerated Online Program) Pre: Enrollment in the Online Graduate Certificate in Data Science.",
+        "modality": "Online",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Mathematics"
+    },
+    "AMS563": {
+        "cid": "AMS563",
+        "name": "Applied Mathematics in Data Science",
+        "desc": "(3 crs.) Cross-listed (AMS), DSP 563. Introduction to mathematical foundations necessary to effectively study problems in data science and machine learning. Use linear algebra and optimization  pose and solve modern problems leveraging data from diverse applications. (Accelerated Online Program) Pre: DSP 556.",
+        "modality": "Online",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Mathematics"
+    },
+    "AMS571": {
+        "cid": "AMS571",
+        "name": "Mathematical Methods for Quantum Computing",
+        "desc": "(3 crs.) Cross-listed as (PHY), AMS 571. Math methods needed for quantum computing including linear vector spaces, linear operators, Hermitian and unitary operators, eigenvectors and eigenvalues, with an introduction to coding in Python. (Accelerated Online Program) Pre: permission of instructor.",
+        "modality": "Online",
+        "creds": "3",
+        "college": "Arts and Sciences",
+        "department": "Mathematics"
+    },
+    "AMS590": {
+        "cid": "AMS590",
+        "name": "Advanced Topics in Applied Mathematics",
+        "desc": "(1-4 crs.) Advanced topics of current interest in applied and computational mathematics. Applications from engineering, biology, finance, data and network science, along with relevant numerical algorithms, will be considered. (Lec.) Pre: Permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "1 - 4",
+        "college": "Arts and Sciences",
+        "department": "Mathematics"
+    },
+    "AMS699": {
+        "cid": "AMS699",
+        "name": "Doctoral Dissertation Research",
+        "desc": "(1-12 crs.) Number of credits is determined each semester in consultation with the major professor or program committee. (Independent Study) S/U credit.",
+        "modality": "Face to Face",
+        "creds": "1 - 12",
+        "college": "Arts and Sciences",
+        "department": "Mathematics"
+    },
+    "AFS102": {
+        "cid": "AFS102",
+        "name": "Introductory Aquaculture",
+        "desc": "(3 crs.) Aquaculture and its historical development worldwide, its contribution to food supply, non-food species, methods of production, environmental and ecological considerations, culture practices employed for selected species, selective breeding, feeding, disease, processing and marketing. (Lec. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS105G": {
+        "cid": "AFS105G",
+        "name": "Food from the Sea",
+        "desc": "(3 crs.) Introduction to capture fisheries and aquaculture and their contribution to food supply, methods of production, environmental and ecological considerations, practices employed, processing, and marketing, with a regional New England focus. (Lec. 3/Online) (A1) (GC)",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS106": {
+        "cid": "AFS106",
+        "name": "Food from the Sea Laboratory",
+        "desc": "(1 cr.) Laboratory on capture fisheries and aquaculture and their contribution to food supply, methods of production, environmental and ecological considerations, practices employed, processing, and marketing, with a regional New England focus. (Lab. 2)",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS132G": {
+        "cid": "AFS132G",
+        "name": "Sustainable Agriculture, Food Systems, and Society",
+        "desc": "(3 crs.) Cross-listed as (AFS), AVS, PLS 132G. Food is essential to life, and a foundation of civilization. This course will explore agriculture's history, culture, and practices world-wide, and challenge students to develop sustainable agricultural practices. (Lec. 3/Online) (A2) (GC)",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS132GH": {
+        "cid": "AFS132GH",
+        "name": "Honors Section of AFS/AVS/PLS 132: Sustainable Agriculture, Food Systems, and Society",
+        "desc": "(3 crs.) Cross-listed as (AFS), AVS, PLS 132H. Honors Section of AFS/AVS/PLS 132: Sustainable Agriculture, Food Systems, and Society. (Lec. 3/Online) Pre: 3.40 overall GPA. (A2) (GC)",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS190": {
+        "cid": "AFS190",
+        "name": "Issues in Biotechnology",
+        "desc": "(3 crs.) Cross-listed as (AFS), CMB, NRS, PLS 190. Introduction to modern biotechnology in medical, pharmaceutical, forensic, agricultural, marine, and environmental applications. Consideration of ethical, environmental, health, and social issues. (Lec. 3/Online) (A1)",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS201": {
+        "cid": "AFS201",
+        "name": "Shellfish Aquaculture",
+        "desc": "(4 crs.) Culture of marine and freshwater mollusks. Emphasis on life history, biological requirements, culture practices, and economic importance of major species used for human food or shell products. (Lec. 3, Lab. 3) Pre: AFS 105G.",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS202": {
+        "cid": "AFS202",
+        "name": "Finfish Aquaculture",
+        "desc": "(3 crs.) Introduction to the culture of finfish, emphasizing general principles and hands-on experience. Topics include water quality, spawning, care and maintenance, and growth of selected freshwater and marine species. (Lec. 1, Lab. 6)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AFS215": {
+        "cid": "AFS215",
+        "name": "Fisheries Science",
+        "desc": "(3 crs.) Introduction to principles of fisheries as an interdisciplinary science including biology, ecology, anthropology, and oceanography.  Practical skills for research in the marine and freshwater environment. (Lec. 2, Lab. 1) Pre: AFS 105G.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS270": {
+        "cid": "AFS270",
+        "name": "Basic Scuba Diving in Science and Technology",
+        "desc": "(3 crs.) Rigorous introduction to scuba diving including equipment, diving physics, no-decompression and decompression diving, basic skills, and safety. Emphasis on development of basic knowledge and skills appropriate for a diving scientist or technician. Open Water Diver Certification by the National Association of Underwater Instructors is provided. (Lec. 2, Lab. 3) Pre: scuba diving physical examination and demonstration of strong swimming skills.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS290": {
+        "cid": "AFS290",
+        "name": "Small Boats: Their Equipment and Operation",
+        "desc": "(3 crs.) Principles and practices of vessel operation, from outboard skiffs to small trawlers. Basic nomenclature, navigation, and shiphandling. Rigging and working gear used in marine resource development. (Lec. 2, Lab. 3)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS291": {
+        "cid": "AFS291",
+        "name": "Laboratory Research Skills",
+        "desc": "(1 cr.) Cross-listing as (AFS), AVS, BIO, BTC, CMB 291. Overview of the general operations of a scientific laboratory, commonly used scientific infrastructure, equipment and skills to prepare students for working in professional laboratories. (Lab. 1, Online) Pre: Sophomore standing; permission of instructor. The course is not for lab credit for B.S. Biological Sciences & B.S. Marine Biology.",
+        "modality": "Blended",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AFS300": {
+        "cid": "AFS300",
+        "name": "Diseases of Aquatic Organisms",
+        "desc": "(4 crs.) Integrate and apply knowledge on disease dynamics and host-pathogen-environment interactions with skills from a variety of disciplines to manage the impact of diseases affecting aquatic organisms, from algae to whales. (Lec. 3, Lab. 2) Pre: AFS105G and a BIO course or permission of instructor. (D1)",
+        "modality": "Face to Face",
+        "creds": "4",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS321": {
+        "cid": "AFS321",
+        "name": "World Fishing Methods",
+        "desc": "(3 crs.) An introduction to fish catching methods and gears used throughout the world including the interaction between the gear, the species and related behavior, and the ecology and habitat associations. (Lec. 3) Pre: AFS 105G and concurrent enrollment in AFS 322.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS322": {
+        "cid": "AFS322",
+        "name": "Laboratory for World Fishing Methods",
+        "desc": "(1 cr.) Introduction to techniques and skills in fish catching methods and gears used throughout the world. (Lab. 3) Pre: AFS 105G and concurrent enrollment in AFS 321.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS362": {
+        "cid": "AFS362",
+        "name": "Crustacean Aquaculture",
+        "desc": "(3 crs.) Reproductive biology, breeding, culture systems, nutrition, genetics, and ecology of selected species of cultured crustaceans. Representative species of penaeid shrimp, freshwater prawns, crayfish, crabs, lobsters, and brine shrimp will be discussed. (Lec. 3) Pre: AFS 201 and 202.  Offered in spring of od-numbered years.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS391": {
+        "cid": "AFS391",
+        "name": "Special Problems and Independent Study",
+        "desc": "(1-3 crs.) Special work to meet individual needs of students aquaculture, fisheries, and marine technology. (Independent Study) S/U grades only.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS392": {
+        "cid": "AFS392",
+        "name": "Special Problems and Independent Study",
+        "desc": "(1-3 crs.) Special work to meet individual needs of students aquaculture, fisheries, and marine technology. (Independent Study) S/U grades only.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS395": {
+        "cid": "AFS395",
+        "name": "Underwater Photography and Film",
+        "desc": "(3 crs.) Cross-listed as (AFS) ART 395. Photography and film as applied to the underwater environment, including safe watermanship skills, camera equipment, lighting, and post-production methods. (Lec. 3) Pre: Permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AFS396": {
+        "cid": "AFS396",
+        "name": "Marine Technical Practicum",
+        "desc": "(3 crs.) Practice through field work of technical skills for application in marine sciences research (e.g. scuba diving leadership, field equipment servicing, operation of instrumentation, and/or boating operations). (Practicum) Pre: AFS 270 or equivalent Open Water Scuba Diving certification upon approval of course instructor, and admission into the Undergraduate Marine Technical Certificate Program. S/U grades only.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS397": {
+        "cid": "AFS397",
+        "name": "Underwater Photography & Film Laboratory",
+        "desc": "(1 cr.) Cross-listed as (AFS) ART 397. Students gain experience in underwater photography and film techniques while snorkeling and/or scuba diving. Additional snorkel or scuba certifications by Scuba Diving International are provided. Travel course, additional fees. (Lab. 1) Pre: Credit or concurrent enrollment in AFS 395, permission of instructor, must pass basic swim evaluation.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AFS399": {
+        "cid": "AFS399",
+        "name": "Aquaculture and Fisheries Internship",
+        "desc": "(1-6 crs.) Supervised work performed with an environmental agency, nongovernmental organization, or private firm as part of the requirements of the Aquaculture and Fisheries Science program. (Practicum) Pre: Permission of instructor. S/U grades only.",
+        "modality": "Face to Face",
+        "creds": "1 - 6",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS415": {
+        "cid": "AFS415",
+        "name": "Fishery Ecology",
+        "desc": "(3 crs.) Ecological characteristics of fishes and shellfishes in capture fisheries worldwide. Relationship between aspects of fishing, habitats, and community structure along with assessment methods. (Lec. 3/Online) Pre: AFS 215 and MTH131 or MTH141",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AFS416": {
+        "cid": "AFS416",
+        "name": "Fishery Ecology Laboratory",
+        "desc": "(1 cr.) Practices and techniques of fisheries ecology. Field exercises in local model estuary and coastal zone on sampling methods, enumerating and documenting collections, measuring and reporting environmental attributes, estimating population parameters.(Lab. 2) Pre: concurrent registration in AFS 415.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS425": {
+        "cid": "AFS425",
+        "name": "Aquaculture and the Environment",
+        "desc": "(3 crs.) How aquaculture impacts the environment and vice-versa including interaction with wild organisms, public perceptions, climate change and pollution. Solutions include siting, monitoring, designs, polyculture, reuse systems, selective-breeding, diversification and certification. (Lec. 3) Pre: AFS 105G or permission of instructor",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AFS432": {
+        "cid": "AFS432",
+        "name": "Marine Finfish Aquaculture",
+        "desc": "(3 crs.) Culture of non-salmonid marine fish worldwide, with emphasis on the hatchery phase. Broodstock, larval rearing, live and formulated feeds, grow-out systems, stock enhancement. Requires student project on facility design. Pre: AFS 105G.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS433": {
+        "cid": "AFS433",
+        "name": "Research Diving Methods",
+        "desc": "(3 crs.) Underwater methods used to assess biological, physical, chemical, and geological characteristics of estuarine and coastal environments are presented and used to investigate seasonal changes in these parameters in the Narragansett Bay environment. (Lec. 2, Lab. 3) Pre: scuba certification and permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS440": {
+        "cid": "AFS440",
+        "name": "Aquatic Food Production in the Philippines",
+        "desc": "(3 crs.) Interdisciplinary, cross-cultural experience of aquaculture and fisheries in the Philippines through field trips to aquaculture facilities, coral reefs, and historic sites. Travel required; additional costs apply.  (Lec. 1, Lab 3, Sem 1) Pre: permission of instructor. (D1)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS483": {
+        "cid": "AFS483",
+        "name": "Salmonid Aquaculture",
+        "desc": "(3 crs.) Principles of salmonid aquaculture, including culturing, spawning, incubation, feed formulation and feeding, disease control, genetics, systems management, harvesting, and transport. (Lec. 2, Lab. 2) Pre: AFS 202",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AFS486": {
+        "cid": "AFS486",
+        "name": "Fish Physiology",
+        "desc": "(3 crs.)  Study of how fish function in the changing aquatic environment from the molecular to the organismal level. The major organ systems, regulation of physiological and biochemical functions, and interactions will be explored. (Lec. 3) Pre: BIO 101 or 110",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": "Fisheries, Animal and Veterinary Science"
+    },
+    "AFS488G": {
+        "cid": "AFS488G",
+        "name": "Marine Plastic Pollution",
+        "desc": "(3 crs.) Overview of the sources, distribution and impacts of plastics on marine organisms;  techniques used to collect, extract and identify marine plastics; solutions and policy considerations. (Lec. 2, Lab. 1) Pre: Junior standing or permission of instructor. (B1) (C1) (GC)",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS491": {
+        "cid": "AFS491",
+        "name": "Special Projects",
+        "desc": "(1-3 crs.) Work that meets the individual needs of students in aquaculture and fisheries. (Independent Study) S/U grades only.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS492": {
+        "cid": "AFS492",
+        "name": "Special Projects",
+        "desc": "(1-3 crs.) Work that meets the individual needs of students in aquaculture and fisheries. (Independent Study) S/U grades only.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS500": {
+        "cid": "AFS500",
+        "name": "Advanced Diseases of Aquatic Organisms",
+        "desc": "(3 crs.) Application of ecology and evolution to the advanced study of diseases affecting aquatic organisms (Lec. 3) Pre: AFS 300, graduate standing, or permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS501": {
+        "cid": "AFS501",
+        "name": "Professional Develop. in Fisheries and Aquaculture",
+        "desc": "(1 cr.) Formulate learning outcomes and develop professional internships for new AFS graduate students through interaction with faculty; develop skills in environmental communication, leadership, and ethics. (Seminar) S/U grades only.",
+        "modality": "Face to FaceOnline",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS502": {
+        "cid": "AFS502",
+        "name": "Seminar in Fisheries and Aquaculture",
+        "desc": "(1 cr.) Presentation of proposed, ongoing and completed major projects by AFS graduate students. Discussion among graduate students, faculty, and other mentors on project design, methods, analysis, and presentation. (Seminar) S/U grades only.",
+        "modality": "Face to FaceOnline",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS503": {
+        "cid": "AFS503",
+        "name": "Pathobiology",
+        "desc": "(3 crs.) Cross-listed as (AFS), AVS 503. Mechanisms and causes of disease in homeothermic and poikilothermic vertebrates. Cell death, inflammation, infection, metabolic disorders, and neoplasis in relation to fish, reptiles, birds, and mammals. Effects of disease at the cellular, tissue, organ, and organismal levels with a medical orientation. (Lec. 3) Pre: BIO 201 or AVS 331.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS508": {
+        "cid": "AFS508",
+        "name": "Seminar in Biological Literature",
+        "desc": "(1 cr.) Cross-listed as (BIO), CMB, AFS, AVS, PLS, NRS, LIB 508. Survey of biological literature including traditional methods of bibliographic control, contemporary information retrieval services, and the development of a personalized information system. (Sem. 1) Pre: graduate standing or permission of the instructor.",
+        "modality": "Face to Face",
+        "creds": "1",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS531": {
+        "cid": "AFS531",
+        "name": "Fisheries Stock Assessment",
+        "desc": "(3 crs.) A quantitative approach to describing the processes of fish growth and mortality, the estimation of stock size, the prediction of stock yield, and management practices. Spreadsheets and other microcomputer applications will be used for analysis and modeling. (Lec. 2, Lab. 3) Pre: AFS 415, STA 409 or permission of instructor.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS532": {
+        "cid": "AFS532",
+        "name": "Experimental Design",
+        "desc": "(3 crs.) Cross-listed as (STA), PSY, AFS 532. Application of statistical methods to biological and psychological research and experimentation. Experimental situations for which various ANOVA and ANCOVA designs are most suitable. (Lec. 3) Pre: STA 409 or equivalent.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS534": {
+        "cid": "AFS534",
+        "name": "Animal Virology",
+        "desc": "(3 crs.) Cross-listed as (AFS), CMB 534. Basic properties, classification, and evolution of animal viruses. Individual agents are studied in detail. (Lec. 3) Pre: CMB 432, 533, or permission of chairperson.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS560": {
+        "cid": "AFS560",
+        "name": "Ecosystem-Based Fisheries Science & Management",
+        "desc": "(3 crs.) Cross-listed as (AFS), OCG 560. The scientific components of ecosystem-based fisheries management: climate variation, trophic interactions, habitat, bycatch, and human dimensions. Classes emphasize problem-solving through case studies of domestic and international fisheries. (Lec. 3) Pre: Graduate standing or instructor permission.",
+        "modality": "Face to FaceOnline",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS576": {
+        "cid": "AFS576",
+        "name": "Seminar in Genetics of Aquatic Organisms",
+        "desc": "(3 crs.) Modes of inheritance found in fish including chromosome number, polyploidy, sex determination, and hybridization. Heritabilities, methods of selection, and mating systems used in the development of fish suited for intensive culture. (Seminar) Pre: BIO 352.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS581": {
+        "cid": "AFS581",
+        "name": "Current Topics in Molluscan Aquaculture",
+        "desc": "(3 crs.) Review and critical analysis of recent literature within the field of molluscan biology with emphasis on application to mariculture techniques. Student presentation of selected topics and field trips to state-of-the-art mariculture facilities. (Lec. 3) Pre: graduate standing or senior standing with permission of instructor.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS584": {
+        "cid": "AFS584",
+        "name": "Advanced Aquaculture Systems",
+        "desc": "(3 crs.) Development of design criteria, operational analysis, and management of selected species in water reuse systems. (Lec. 2, Lab. 2) In alternate years.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS586": {
+        "cid": "AFS586",
+        "name": "Fish Nutrition",
+        "desc": "(3 crs.) Digestion and metabolism of carbohydrate, protein, and lipids by fish. Role of vitamins and minerals in metabolism and associative nutritional diseases resulting from deficiencies. Inadvertent toxic factors in fish feeds. (Lec. 3) Pre: CHM 228 or equivalent. In alternate years.",
+        "modality": "Face to Face",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS591": {
+        "cid": "AFS591",
+        "name": "Special Projects",
+        "desc": "(1-3 crs.) Research projects in animal pathology, virology, and aquaculture. (Independent Study) Pre: graduate standing or permission of chairperson.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS592": {
+        "cid": "AFS592",
+        "name": "Special Projects",
+        "desc": "(1-3 crs.) Research projects in animal pathology, virology, and aquaculture. (Independent Study) Pre: graduate standing or permission of chairperson.",
+        "modality": "Face to Face",
+        "creds": "1 - 3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    },
+    "AFS597": {
+        "cid": "AFS597",
+        "name": "Internship in Fisheries and Aquaculture",
+        "desc": "(3 crs.) Supervised work performed with an environmental agency, nongovernmental organization, or private firm as part of the requirements of AFS graduate degree programs. (Accelerated Online Program) Pre: Enrolled in Online Graduate Certificate in Fisheries Science or permission of instructor. S//U only.",
+        "modality": "Online",
+        "creds": "3",
+        "college": "Environment and Life Sciences",
+        "department": ""
+    }
+}
